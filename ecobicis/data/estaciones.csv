@@ -1,0 +1,452 @@
+,address,districtName,id,location,name,nearbyStations,lat,lon
+1,443 - Bruno Trave-Avenida México-Coyoacan,Ampliación Granada,443,"{'lat': 19.359655, 'lon': -99.162025}",443 BRUNO TRAVEN-GOLONDRINAS,"[432, 442, 444]",19.359655,-99.162025
+2,416 - Recreo-Parroquía,Ampliación Granada,416,"{'lat': 19.371308, 'lon': -99.177607}",416 RECREO-PARROQUÍA,"[390, 391, 415]",19.371308,-99.177607
+3,437 - Moras-Comunal,Ampliación Granada,437,"{'lat': 19.36480833, 'lon': -99.17602222}",437 MORAS-COMUNAL,"[423, 436, 438]",19.36480833,-99.17602222
+4,438 - Adolfo Prieto-José María Olloqui,Ampliación Granada,438,"{'lat': 19.36479722, 'lon': -99.17458333}",438 ADOLFO PRIETO-JOSÉ MARÍA OLLOQUI,"[434, 435, 437]",19.36479722,-99.17458333
+5,440 - Real De Mayorazgo-Puente Xoco,Ampliación Granada,440,"{'lat': 19.36065, 'lon': -99.168669}",440 REAL DE MAYORAZGO-PUENTE XOCO,"[433, 439, 441]",19.36065,-99.168669
+6,347 - Pennsylvania-Maximino Avila Camacho,Ampliación Granada,347,"{'lat': 19.384378, 'lon': -99.176097}",347 PENNSYLVANIA-MAXIMINO AVILA CAMACHO,"[334, 346, 348]",19.384378,-99.176097
+7,350 - Jose Clemente Orozco-Correggio,Ampliación Granada,350,"{'lat': 19.384062, 'lon': -99.181482}",350 JOSE CLEMENTE OROZCO-CORREGGIO,"[349, 352]",19.384062,-99.181482
+8,356 - Matias Romero -Adolfo Prieto,Ampliación Granada,356,"{'lat': 19.381292, 'lon': -99.170171}",356 MATIAS ROMERO -ADOLFO PRIETO,"[355, 357, 372]",19.381292,-99.170171
+9,361 - Porfirio Díaz-Av. Insurgentes,Ampliación Granada,361,"{'lat': 19.3804457, 'lon': -99.1762233}",361 PORFIRIO DÍAZ-AV. INSURGENTES,"[369, 370]",19.3804457,-99.1762233
+10,368 - Porfirio Díaz-Cincinatti,Ampliación Granada,368,"{'lat': 19.379246, 'lon': -99.179344}",368 PORFIRIO DÍAZ-CINCINATTI ,"[366, 367, 369]",19.379246,-99.179344
+11,369 - Porfirio Díaz-Av. Insurgentes,Ampliación Granada,369,"{'lat': 19.379884, 'lon': -99.177478}",369 PORFIRIO DÍAZ-AV. INSURGENTES,"[367, 368]",19.379884,-99.177478
+12,372 - Dr. Roberto Gayol-Tlacoquemecatl,Ampliación Granada,372,"{'lat': 19.37797, 'lon': -99.170289}",372 DR. ROBERTO GAYOL-TLACOQUEMECATL,"[373, 378, 379]",19.37797,-99.170289
+13,379 - Dr. Roberto Gayol-Miguel Laurent,Ampliación Granada,379,"{'lat': 19.375751, 'lon': -99.17084}",379 DR. ROBERTO GAYOL-MIGUEL LAURENT,"[378, 380, 395]",19.375751,-99.17084
+14,402 - Uxmal-Municipio Libre,Ampliación Granada,402,"{'lat': 19.3709452, 'lon': -99.1587223}",402 UXMAL-MUNICIPIO LIBRE,"[401, 403, 405]",19.3709452,-99.1587223
+15,003 - Reforma - Insurgentes,Ampliación Granada,3,"{'lat': 19.431655, 'lon': -99.158668}",3 REFORMA-INSURGENTES,"[8, 20, 86]",19.431655,-99.158668
+16,012 - Río Lerma - Villalongin,Ampliación Granada,12,"{'lat': 19.432313, 'lon': -99.161597}",12 RIO LERMA-VILLALONGIN,"[11, 19, 20, 85]",19.432313,-99.161597
+17,013 - Reforma - Rio Rodano,Ampliación Granada,13,"{'lat': 19.423778, 'lon': -99.175558}",13 REFORMA-RIO RODANO,"[7, 14, 21]",19.423778,-99.175558
+18,016 - Reforma - Rio Guadalquivir,Ampliación Granada,16,"{'lat': 19.42653, 'lon': -99.169164}",16 REFORMA-RIO GUADALQUIVIR,"[9, 23, 24]",19.42653,-99.169164
+19,017 - Reforma - Rio Tiber,Ampliación Granada,17,"{'lat': 19.427501, 'lon': -99.167125}",17 REFORMA-RIO TIBER,"[16, 18, 25]",19.427501,-99.167125
+20,019 - Reforma - Rio Neva,Ampliación Granada,19,"{'lat': 19.43001, 'lon': -99.161675}",19 REFORMA-RIO NEVA,"[12, 20, 27]",19.43001,-99.161675
+21,021 - Reforma - Lieja,Ampliación Granada,21,"{'lat': 19.423317, 'lon': -99.175124}",21 REFORMA-LIEJA,"[7, 13, 14, 28]",19.423317,-99.175124
+22,036 - Puebla - Veracruz,Ampliación Granada,36,"{'lat': 19.419725, 'lon': -99.175778}",36 PUEBLA-VERACRUZ,"[37, 41]",19.419725,-99.175778
+23,047 - Glorieta Cibeles - Oaxaca,Ampliación Granada,47,"{'lat': 19.419515, 'lon': -99.166299}",47 GLORIETA CIBELES-OAXACA,"[42, 51, 56]",19.419515,-99.166299
+24,041 - Reforma - Av. de la República,Ampliación Granada,41,"{'lat': 19.435637, 'lon': -99.150137}",41 REFORMA-AV. DE LA REPUBLICA,[29],19.435637,-99.150137
+25,055 - 5 de Mayo - Bolívar,Ampliación Granada,55,"{'lat': 19.434356, 'lon': -99.138064}",55 5 DE MAYO-BOLIVAR,"[65, 87, 88]",19.434356,-99.138064
+26,057 - Cuernavaca - Juan Escutia,Ampliación Granada,57,"{'lat': 19.414903, 'lon': -99.17495}",57 CUERNAVACA-JUAN ESCUTIA,"[49, 50, 62]",19.414903,-99.17495
+27,066 - Mazatlán - Francisco Marquez,Ampliación Granada,66,"{'lat': 19.411402, 'lon': -99.178666}",66 MAZATLAN-FRANCISCO MARQUEZ,"[65, 72]",19.411402,-99.178666
+28,074 - Nuevo León - Ozulama,Ampliación Granada,74,"{'lat': 19.410343, 'lon': -99.172831}",74 NUEVO LEON-OZULAMA,"[63, 68]",19.410343,-99.172831
+29,063 - Nuevo León - Laredo,Ampliación Granada,63,"{'lat': 19.413681, 'lon': -99.171531}",63 NUEVO LEON- LAREDO,"[76, 77]",19.413681,-99.171531
+30,070 - Parque México - Michoacan,Ampliación Granada,70,"{'lat': 19.411272, 'lon': -99.169718}",70 PARQUE MEXICO-MICHOACAN,"[69, 76]",19.411272,-99.169718
+31,088 - 2a Cerrada de 5 de Mayo - Palma,Ampliación Granada,88,"{'lat': 19.433815, 'lon': -99.135303}",88 2A CDA 5 DE MAYO-PALMA,"[55, 89]",19.433815,-99.135303
+32,072 - Mazatlán - Alfonso Reyes,Ampliación Granada,72,"{'lat': 19.409893, 'lon': -99.179544}",72 MAZATLAN-ALFONSO REYES,"[65, 66, 75]",19.409893,-99.179544
+33,086 - Sullivan-Insurgentes,Ampliación Granada,86,"{'lat': 19.432378, 'lon': -99.159077}",86 SULLIVAN-INSURGENTES,"[12, 20]",19.432378,-99.159077
+34,102 - Echeveste-Bolivar,Ampliación Granada,102,"{'lat': 19.42821, 'lon': -99.13949}",102 ECHEVESTE-BOLIVAR,"[101, 104, 109]",19.42821,-99.13949
+35,110 - Dr. Valenzuela-Dr. Río de la loza,Ampliación Granada,110,"{'lat': 19.42513, 'lon': -99.14339}",110 DR. VALENZUELA-DR. RÍO DE LA LOZA,"[107, 108, 122]",19.42513,-99.14339
+36,111 GUILLERMO PRIETO-JOAQUÍN VELÁZQUEZ DE LEÓN,Ampliación Granada,111,"{'lat': 19.438371, 'lon': -99.166474}",111 GUILLERMO PRIETO-JOAQUÍN VELÁZQUEZ DE LEÓN,"[103, 160, 183]",19.438371,-99.166474
+37,112 - Av. Morelos-Abraham González,Ampliación Granada,112,"{'lat': 19.432819, 'lon': -99.151734}",112 AV. MORELOS-ABRAHAM GONZALEZ,"[98, 113, 114]",19.432819,-99.151734
+38,123 - Claudio Bernard-Dr. Lavista,Ampliación Granada,123,"{'lat': 19.424161, 'lon': -99.153117}",123 CLAUDIO BERNARD-DR. LAVISTA,"[124, 133]",19.424161,-99.153117
+39,150 - Campeche-Medellín,Ampliación Granada,150,"{'lat': 19.409965, 'lon': -99.164292}",150 CAMPECHE-MEDELLÍN,"[146, 151, 152]",19.409965,-99.164292
+40,154 - Tuxpan-Tlaxcala,Ampliación Granada,154,"{'lat': 19.406683, 'lon': -99.167962}",154 TUXPAN-TLAXCALA,"[152, 153, 157]",19.406683,-99.167962
+41,171 - Comercio-Jose Martí,Ampliación Granada,171,"{'lat': 19.402584, 'lon': -99.178199}",171 COMERCIO-JOSE MARTÍ,"[167, 168, 173]",19.402584,-99.178199
+42,173 - Minería-Jose Martí,Ampliación Granada,173,"{'lat': 19.401682, 'lon': -99.176398}",173 MINERÍA-JOSÉ MARTÍ,"[168, 169, 171]",19.401682,-99.176398
+43,174 - Joaquín Garcia-Ignacio Manuel Altamirano,Ampliación Granada,174,"{'lat': 19.44111, 'lon': -99.16164}",174 JOAQUÍN GARCIA-IGNACIO MANUEL ALTAMIRANO,"[160, 183, 254]",19.44111,-99.16164
+44,204 - Temistocles-Homero,Ampliación Granada,204,"{'lat': 19.435882, 'lon': -99.19152}",204 TEMISTOCLES-HOMERO,"[196, 200, 245]",19.435882,-99.19152
+45,197 - Miguel de Cervantes Saavedra-Ferrocarril de Cuernavaca,Ampliación Granada,197,"{'lat': 19.440077, 'lon': -99.204316}",197 MIGUEL DE CERVANTES-FC DE CUERNAVACA,[197],19.440077,-99.204316
+46,227 - Campos Elíseos-Periférico,Ampliación Granada,227,"{'lat': 19.431791, 'lon': -99.207373}",227 CAMPOS ELÍSEOS-PERIFÉRICO,"[213, 219, 220]",19.431791,-99.207373
+47,181 - Benjamin Franklin-Saltillo,Ampliación Granada,181,"{'lat': 19.404976, 'lon': -99.175095}",181 BENJAMIN FRANKLIN-SALTILLO,"[168, 169, 179]",19.404976,-99.175095
+48,232 - Taine -  Rubén Darío,Ampliación Granada,232,"{'lat': 19.42894, 'lon': -99.185389}",232 TAINE-RUBEN DARÍO ,"[224, 225, 226]",19.42894,-99.185389
+49,237 - Andrés Bello-Elliot,Ampliación Granada,237,"{'lat': 19.426744, 'lon': -99.193986}",237 ANDRÉS BELLO-ELLIOT ,"[193, 234, 238]",19.426744,-99.193986
+50,238 - Andrés Bello-Elliot,Ampliación Granada,238,"{'lat': 19.426765, 'lon': -99.193752}",238 ANDRÉS BELLO-ELLIOT ,"[193, 234, 237]",19.426765,-99.193752
+51,234 - Tres Picos-Arquímides,Ampliación Granada,234,"{'lat': 19.42783, 'lon': -99.191539}",234 TRES PICOS-ARQUÍMIDES ,"[192, 193, 231]",19.42783,-99.191539
+52,243 - Miguel de Cervantes Saavedra-Lago Filt,Ampliación Granada,243,"{'lat': 19.440839, 'lon': -99.196712}",243 MIGUEL DE CERVANTES SAAVEDRA-LAGO FILT ,"[199, 242, 244]",19.440839,-99.196712
+53,248 - Shakespeare-Lafayette,Ampliación Granada,248,"{'lat': 19.43175, 'lon': -99.177399}",248 SHAKESPEARE-LAFAYETTE ,"[246, 247, 249]",19.43175,-99.177399
+54,250 - Darwin-Mariano Escobedo,Ampliación Granada,250,"{'lat': 19.429057, 'lon': -99.17966}",250 DARWIN-MARIANO ESCOBEDO ,"[239, 249, 252]",19.429057,-99.17966
+55,253 - Dante-Tolstoi,Ampliación Granada,253,"{'lat': 19.425835, 'lon': -99.177924}",253 DANTE-TOLSTOI ,"[195, 252, 261]",19.425835,-99.177924
+56,255-Jose Rosas Moreno-Guillermo Prieto,Ampliación Granada,255,"{'lat': 19.437159, 'lon': -99.161808}",255 JOSE ROSAS MORENO-GUILLERMO PRIETO ,"[160, 183, 257]",19.437159,-99.161808
+57,259 - Tómas Alva Edison-Ponciano Arriaga,Ampliación Granada,259,"{'lat': 19.43757, 'lon': -99.15468}",259 TÓMAS ALVA EDISON-PONCIANO ARRIAGA ,[256],19.43757,-99.15468
+58,261 Paseo de la Reforma-Río Ródano,Ampliación Granada,261,"{'lat': 19.423704, 'lon': -99.175196}",261 PASEO DE LA REFORMA-RÍO RÓDANO ,"[195, 252, 253]",19.423704,-99.175196
+59,264 - H. Ferrocarrileros - Jesús Garcia ,Ampliación Granada,264,"{'lat': 19.440985, 'lon': -99.152935}",264 HÉROES FERROCARRILEROS-AV. CENTRAL,"[265, 266, 268]",19.440985,-99.152935
+60,265 - Jesús Garcia-Héroes Ferrocarrileros,Ampliación Granada,265,"{'lat': 19.440839, 'lon': -99.152265}",265 HÉROES FERROCARRILEROS-JESÚS GARCIA,"[264, 275]",19.440839,-99.152265
+61,273 Luis Donaldo Colosio - Av. Jesus Garcia,Ampliación Granada,273,"{'lat': 19.442707, 'lon': -99.152956}",273 LUIS DONALDO COLOSIO-AV. CENTRAL,"[176, 268, 274]",19.442707,-99.152956
+62,277 - Ampliación Tonalá-Obrero Mundial,Ampliación Granada,277,"{'lat': 19.401807, 'lon': -99.15909}",277 AMPLIACIÓN TONALÁ-OBRERO MUNDIAL,"[165, 276, 280]",19.401807,-99.15909
+63,278 - Mier Y Pesado-Obrero Mundial,Ampliación Granada,278,"{'lat': 19.40071, 'lon': -99.163831}",278 MIER Y PESADO-OBRERO MUNDIAL,"[164, 279, 282]",19.40071,-99.163831
+64,271 Av. Jesús García - J. Meneses,Ampliación Granada,271,"{'lat': 19.442689, 'lon': -99.152465}",271 AV. CENTRAL-J. MENESES ,"[266, 267, 272]",19.442689,-99.152465
+65,283 - Av. Coyoacán-Rafael Donde,Ampliación Granada,283,"{'lat': 19.39827, 'lon': -99.167383}",283 AV. COYOACÁN-RAFAEL DONDE,"[279, 292, 293]",19.39827,-99.167383
+66,288 - 11 De Abril-Avenida 2,Ampliación Granada,288,"{'lat': 19.396333, 'lon': -99.183575}",288 11 DE ABRIL-AVENIDA 2,"[287, 310, 311]",19.396333,-99.183575
+67,305 - Avenida Del Parque-Arizona,Ampliación Granada,305,"{'lat': 19.394693, 'lon': -99.175531}",305 AVENIDA DEL PARQUE-ARIZONA,"[304, 306, 307]",19.394693,-99.175531
+68,308 - Nueva York-Arizona,Ampliación Granada,308,"{'lat': 19.393594, 'lon': -99.178072}",308 NUEVA YORK-ARIZONA,"[306, 307, 309]",19.393594,-99.178072
+69,310 - Calle 1-Av. Patriotismo,Ampliación Granada,310,"{'lat': 19.395319, 'lon': -99.181733}",310 CALLE 1-AV. PATRIOTISMO,"[309, 311, 312]",19.395319,-99.181733
+70,311 - Calle 5-Avenida Revolución,Ampliación Granada,311,"{'lat': 19.393665, 'lon': -99.185391}",311 CALLE 5-AVENIDA REVOLUCIÓN,"[310, 312, 328]",19.393665,-99.185391
+71,313 - Pennsylvania-Oklahoma,Ampliación Granada,313,"{'lat': 19.391431, 'lon': -99.178989}",313 PENNSYLVANIA-OKLAHOMA,"[308, 309, 314]",19.391431,-99.178989
+72,321 - Torres Adalid-Anaxágoras,Ampliación Granada,321,"{'lat': 19.389477, 'lon': -99.157513}",321 TORRES ADALID-ANAXÁGORAS,"[320, 322, 340]",19.389477,-99.157513
+73,322 - Heriberto Frías-Concepción Beistegui,Ampliación Granada,322,"{'lat': 19.388528, 'lon': -99.160616}",322 HERIBERTO FRÍAS-CONCEPCIÓN BEISTEGUI,"[321, 323, 339]",19.388528,-99.160616
+74,325 - Providencia -Avenida Del Valle,Ampliación Granada,325,"{'lat': 19.3881779, 'lon': -99.1696894}",325 PROVIDENCIA -AVENIDA DEL VALLE,"[316, 335, 336]",19.3881779,-99.1696894
+75,251 - Goethe-Darwin,Anzures,251,"{'lat': 19.429261, 'lon': -99.17538}",251 GOETHE-DARWIN ,"[248, 249, 252]",19.429261,-99.17538
+76,252 - Víctor Hugo-Shakespeare,Anzures,252,"{'lat': 19.427575, 'lon': -99.17702}",252 VICTOR HUGO-SHAKESPEARE ,"[249, 251, 253]",19.427575,-99.17702
+77,249 - Shakespeare-Darwin,Anzures,249,"{'lat': 19.429877, 'lon': -99.177569}",249 SHAKESPEARE-DARWIN ,"[248, 250, 251]",19.429877,-99.177569
+78,246 - Leibnitz-Thiers,Anzures,246,"{'lat': 19.434147, 'lon': -99.179835}",246 LEIBNITZ-THIERS,"[207, 247, 248]",19.434147,-99.179835
+79,247 - Herschel-Rousseau,Anzures,247,"{'lat': 19.432102, 'lon': -99.180565}",247 HERSCHEL-ROUSSEAU ,"[226, 239, 246]",19.432102,-99.180565
+80,452 LEIBNITZ-AV. EJERCITO NACIONAL,Anzures,452,"{'lat': 19.435031, 'lon': -99.179838}",452 LEIBNITZ-AV. EJERCITO NACIONAL,[452],19.435031,-99.179838
+81,439 - Amores-Avenida Coyoacán,Acacias,439,"{'lat': 19.36218889, 'lon': -99.17246667}",439 AMORES-AVENIDA COYOACÁN,"[433, 434, 438]",19.36218889,-99.17246667
+82,436 - Rodriguez Saro-Bufallo,Acacias,436,"{'lat': 19.366217, 'lon': -99.177819}",436 RODRIGUEZ SARO-BUFALLO,"[422, 423, 437]",19.366217,-99.177819
+83,423 - Moras-José María Rico (Eje 8),Acacias,423,"{'lat': 19.367631, 'lon': -99.175342}",423 MORAS-JOSÉ MARÍA RICO (EJE 8),"[422, 436, 437]",19.367631,-99.175342
+84,435 - Rodriguez Saro-Avenida Coyoacán,Actipan,435,"{'lat': 19.365154, 'lon': -99.172906}",435 RODRIGUEZ SARO-AVENIDA COYOACÁN,"[433, 434, 438]",19.365154,-99.172906
+85,420 - María Luz Bringas-Oso,Actipan,420,"{'lat': 19.369723, 'lon': -99.17964}",420 MARÍA LUZ BRINGAS-OSO,"[418, 419, 421]",19.369723,-99.17964
+86,421 - María Luz Bringas-Oso,Actipan,421,"{'lat': 19.369467, 'lon': -99.179401}",421 MARÍA LUZ BRINGAS-OSO,"[419, 420, 422]",19.369467,-99.179401
+87,422 - Bufalo-José María Rico (Eje 8),Actipan,422,"{'lat': 19.368356, 'lon': -99.177487}",422 BUFALO-JOSÉ MARÍA RICO (EJE 8),"[421, 423, 436]",19.368356,-99.177487
+88,349 - Augusto Rodin-Avenida San Antonio,Ampliación Nápoles,349,"{'lat': 19.385688, 'lon': -99.180857}",349 AUGUSTO RODIN-AVENIDA SAN ANTONIO,"[332, 348, 350]",19.385688,-99.180857
+89,334 - Nuerva York-Av. Insurgentes,Ampliación Nápoles,334,"{'lat': 19.386568, 'lon': -99.175089}",334 NUEVA YORK-AV. INSURGENTES,"[326, 335, 346]",19.386568,-99.175089
+90,326 - Eugenia-Nebraska,Ampliación Nápoles,326,"{'lat': 19.388978, 'lon': -99.174811}",326 EUGENIA-NEBRASKA,"[327, 334, 335]",19.388978,-99.174811
+91,266 - Av. Jesús Garcia -  Carlos J. Meneses,Buenavista,266,"{'lat': 19.444031, 'lon': -99.152187}",266 AV. JESÚS GARCIA-CARLOS J. MENESES ,"[267, 268, 269]",19.444031,-99.152187
+92,267 - Carlos J. Meneses - Av. jesús García,Buenavista,267,"{'lat': 19.443735, 'lon': -99.152203}",267 AV. JESÜS GARCÏA-CARLOS J. MENESES,"[176, 266, 271]",19.443735,-99.152203
+93,268 Luis Donaldo Colosio - Av. Jesus Garcia,Buenavista,268,"{'lat': 19.442448, 'lon': -99.151586}",268 LUIS DONALDO COLOSIO-AV.JESÚS GARCÍA ,"[176, 269, 273]",19.442448,-99.151586
+94,269 Luis Donaldo Colosio - Aldama,Buenavista,269,"{'lat': 19.442467, 'lon': -99.151658}",269 LUIS DONALDO COLOSIO-ALDAMA ,"[176, 268, 273]",19.442467,-99.151658
+95,271 Av. Jesus Garcia - J. Meneses,Buenavista,272,"{'lat': 19.443467, 'lon': -99.152491}",272 AV. CENTRAL-J. MENESES ,"[266, 267, 271]",19.443467,-99.152491
+96,274 Luis Donaldo Colosio - Av. Insurgentes Norte,Buenavista,274,"{'lat': 19.442772, 'lon': -99.153289}",274 LUIS DONALDO COLOSIO-AV INSURGENTES NORTE ,"[176, 268, 273]",19.442772,-99.153289
+97,275 Héroes Ferrocarrileros - Av. Jesús García,Buenavista,275,"{'lat': 19.441062, 'lon': -99.153164}",275 HÉROES FERROCARRILEROS-AV. INSURGENTES NORTE,"[264, 265]",19.441062,-99.153164
+98,176-LUIS DONALDO COLOSIO - AV. JESÜS GARCÏA,Buenavista,176,"{'lat': 19.442689, 'lon': -99.152286}",176 AV. JESÜS GARCÏA-LUIS DONALDO COLOSIO,"[266, 267, 272]",19.442689,-99.152286
+99,348 - Indiana-Avenida San Antonio,Ciudad de los Deportes,348,"{'lat': 19.385365, 'lon': -99.178216}",348 INDIANA-AVENIDA SAN ANTONIO,"[347, 349, 350]",19.385365,-99.178216
+100,362 - Augusto Rodin-Alberto Balderas,Ciudad de los Deportes,362,"{'lat': 19.382207, 'lon': -99.181043}",362 AUGUSTO RODIN-ALBERTO BALDERAS,"[367, 368]",19.382207,-99.181043
+101,363 - Holbein-Paulo Ucello,Ciudad de los Deportes,363,"{'lat': 19.380813, 'lon': -99.183851}",363 HOLBEIN-PAULO UCELLO,"[362, 367]",19.380813,-99.183851
+102,353 - Carolina-Holbein,Ciudad de los Deportes,353,"{'lat': 19.382168, 'lon': -99.178808}",353 CAROLINA-HOLBEIN,"[361, 362]",19.382168,-99.178808
+103,262 - Republica de Cuba-Republica de Brasil,Centro,262,"{'lat': 19.43693, 'lon': -99.13395}",262 REPUBLICA DE CUBA-REPUBLICA DE BRASIL ,"[91, 92, 93]",19.43693,-99.13395
+104,260 - Av. Juárez-Balderas,Centro,260,"{'lat': 19.435354, 'lon': -99.147742}",260 AV JUAREZ-BALDERAS ,"[29, 41]",19.435354,-99.147742
+105,105 - San Jerónimo-5 de Febrero,Centro,105,"{'lat': 19.426755, 'lon': -99.135014}",105 SAN JERONIMO-5 DE FEBRERO,"[101, 104, 106]",19.426755,-99.135014
+106,106 - San Jerónimo-José María Pino Suarez,Centro,106,"{'lat': 19.42649, 'lon': -99.133537}",106 SAN JERONIMO-JOSE MARIA PINO SUAREZ,"[100, 101, 105]",19.42649,-99.133537
+107,107 - Tolsa-Balderas,Centro,107,"{'lat': 19.427329, 'lon': -99.149971}",107 TOLSA-BALDERAS,"[98, 108, 122]",19.427329,-99.149971
+108,108 - Tolsa-Balderas,Centro,108,"{'lat': 19.427305, 'lon': -99.149533}",108 TOLSA-BALDERAS,"[98, 107, 122]",19.427305,-99.149533
+109,109 - Nezahualcóyotl-Isabel la Católica,Centro,109,"{'lat': 19.425311, 'lon': -99.137421}",109 NEZAHUALCOYOTL-ISABEL LA CATOLICA,"[104, 105, 106]",19.425311,-99.137421
+110,065 - Marconi - Tacuba,Centro,65,"{'lat': 19.436142, 'lon': -99.139906}",65 MARCONI-TACUBA,"[52, 55]",19.436142,-99.139906
+111,087 - Gante - Venustiano Carranza,Centro,87,"{'lat': 19.43182, 'lon': -99.13974}",87 GANTE-VENUSTIANO CARRANZA,"[88, 95, 96]",19.43182,-99.13974
+112,089 - República de Guatemala - Monte de Piedad,Centro,89,"{'lat': 19.434946, 'lon': -99.133989}",89 REPUBLICA DE GUATEMALA-MONTE DE PIEDAD,"[88, 90]",19.434946,-99.133989
+113,090 - José María Pino Suárez - Corregidora,Centro,90,"{'lat': 19.431698, 'lon': -99.132446}",90 JOSE MARIA PINO SUAREZ-CORREGIDORA,"[88, 89]",19.431698,-99.132446
+114,091 - Republica de Cuba-Allende,Centro,91,"{'lat': 19.4374, 'lon': -99.137571}",91 REPUBLICA DE CUBA-ALLENDE,"[90, 92, 93]",19.4374,-99.137571
+115,092 - San Ildefonso-República de Argentina,Centro,92,"{'lat': 19.436531, 'lon': -99.131497}",92 SAN ILDEFONSO-REPUBLICA DE ARGENTINA,"[90, 91, 93]",19.436531,-99.131497
+116,093 - Palma Norte-Republica de Cuba,Centro,93,"{'lat': 19.436741, 'lon': -99.134811}",93 PALMA NORTE-REPUBLICA DE CUBA,"[90, 91, 92]",19.436741,-99.134811
+117,94 - Lic. Verdad-Moneda,Centro,94,"{'lat': 19.433766, 'lon': -99.130918}",94 LIC. VERDAD-MONEDA,[94],19.433766,-99.130918
+118,095 - 20 de Noviembre-Venustiano Carranza,Centro,95,"{'lat': 19.430722, 'lon': -99.133698}",95 20 DE NOVIEMBRE-VENUSTIANO CARRANZA,"[93, 96, 97]",19.430722,-99.133698
+119,096 - López-Ayuntamiento,Centro,96,"{'lat': 19.430625, 'lon': -99.14248}",96 LOPEZ-AYUNTAMIENTO,[98],19.430625,-99.14248
+120,097 - Republica de Salvador-Pino Suarez,Centro,97,"{'lat': 19.429189, 'lon': -99.132759}",97 REPUBLICA DE SALVADOR-PINO SUAREZ,"[90, 100]",19.429189,-99.132759
+121,098 - Emilio Dondé-Av. Balderas,Centro,98,"{'lat': 19.430267, 'lon': -99.14861}",98 EMILIO DONDE-AV. BALDERAS,"[107, 108]",19.430267,-99.14861
+122,99 - Ernesto Pugibet-Luis Moya,Centro,99,"{'lat': 19.42995, 'lon': -99.14591}",99 ERNESTO PUGIBET-LUIS MOYA,"[96, 98, 122]",19.42995,-99.14591
+123,100 - 20 de Noviembre-Mesones,Centro,100,"{'lat': 19.428485, 'lon': -99.1338}",100 20 DE NOVIEMBRE-MESONES,"[95, 97, 101]",19.428485,-99.1338
+124,1ER. CALLEJÓN DE MESONES - MESONES,Centro,101,"{'lat': 19.428366, 'lon': -99.135895}",101 1ER. CALLEJÓN DE MESONES-MESONES,"[100, 104, 105]",19.428366,-99.135895
+125,082 - Independencia - Marroquí,Centro,82,"{'lat': 19.433115, 'lon': -99.143686}",82 INDEPENDENCIA-MARROQUI,[82],19.433115,-99.143686
+126,052 - Dolores - Juárez,Centro,52,"{'lat': 19.436236, 'lon': -99.142039}",52 HIDALGO-TRUJANO,[52],19.436236,-99.142039
+127,048 - Independencia - Azueta,Centro,48,"{'lat': 19.433686, 'lon': -99.146557}",48 INDEPENDENCIA-AZUETA,[82],19.433686,-99.146557
+128,043 - Revillagigedo - Juárez,Centro,43,"{'lat': 19.435228, 'lon': -99.146063}",43 JUAREZ-REVILLAGIGEDO,"[52, 82]",19.435228,-99.146063
+129,029 - Reforma - Bucareli,Centro,29,"{'lat': 19.434913, 'lon': -99.149939}",29 REFORMA-BUCARELI,[41],19.434913,-99.149939
+130,192 - Rubén Darío-Reforma,Bosque de Chapultepec,192,"{'lat': 19.42592, 'lon': -99.190755}",192 RUBEN DARIO-REFORMA,"[193, 234, 238]",19.42592,-99.190755
+131,193 - Rubén Darío.Reforma,Bosque de Chapultepec,193,"{'lat': 19.425907, 'lon': -99.190733}",193 RUBEN DARIO-REFORMA,"[192, 234, 238]",19.425907,-99.190733
+132,194 - Av. Paseo de la Reforma-Circuito Mahatma Gandhi,Bosque de Chapultepec,194,"{'lat': 19.424282, 'lon': -99.180334}",194 CTO MAHATMA GANDHI-AV. PASEO DE LA REFORMA,"[195, 253, 261]",19.424282,-99.180334
+133,195 - Circuito Mahatma Gandhi-Av. Paseo de la Reforma,Bosque de Chapultepec,195,"{'lat': 19.424926, 'lon': -99.185147}",195 AV. PASEO DE LA REFORMA-CTO MAHATMA GANDHI,"[194, 253, 261]",19.424926,-99.185147
+134,258 - Circuito Interior-Juan Escutia,Condesa,258,"{'lat': 19.4167, 'lon': -99.1791}",258 CIRCUITO INTERIOR-JUAN ESCUTIA ,"[36, 49, 53]",19.4167,-99.1791
+135,049 - Mazatlán - Juan de la Barrera,Condesa,49,"{'lat': 19.416712, 'lon': -99.175704}",49 MAZATLAN-JUAN DE LA BARRERA,"[41, 50, 60]",19.416712,-99.175704
+136,050 - Cuernavaca - Veracruz,Condesa,50,"{'lat': 19.416938, 'lon': -99.173648}",50 CUERNAVACA-VERACRUZ,"[49, 57, 58]",19.416938,-99.173648
+137,053 - Fernando Montes de Oca - Tula,Condesa,53,"{'lat': 19.414773, 'lon': -99.178433}",53 FERNANDO MONTES DE OCA-TULA,"[52, 60, 65, 66]",19.414773,-99.178433
+138,054 - Parque España - Sonora,Condesa,54,"{'lat': 19.416215, 'lon': -99.170825}",54 PARQUE ESPAÑA-SONORA,"[50, 51, 58, 63]",19.416215,-99.170825
+139,058 - Parque España - Juan de la Barrera,Condesa,58,"{'lat': 19.41568, 'lon': -99.171793}",58 PARQUE ESPAÑA-JUAN DE LA BARRERA,"[50, 54, 61, 63]",19.41568,-99.171793
+140,067 - Vicente Suárez - Michoacan,Condesa,67,"{'lat': 19.411797, 'lon': -99.17588}",67 VICENTE SUAREZ-MICHOACAN,"[62, 66, 68]",19.411797,-99.17588
+141,068 - Tamaulipas - Michoacan,Condesa,68,"{'lat': 19.411556, 'lon': -99.17406}",68 TAMAULIPAS-MICHOACAN,"[67, 74]",19.411556,-99.17406
+142,060 - Mazatlán - Fernando Montes de Oca,Condesa,60,"{'lat': 19.414191, 'lon': -99.177123}",60 MAZATLAN-FERNANDO MONTES DE OCA,"[23, 52, 62, 66]",19.414191,-99.177123
+143,062 - Fernando Montes de Oca - Amatlan,Condesa,62,"{'lat': 19.413322, 'lon': -99.175202}",62 FERNANDO MONTES DE OCA-AMATLAN,"[67, 74]",19.413322,-99.175202
+144,011 - Río Amazonas - Rio Lerma,Cuauhtémoc,11,"{'lat': 19.430992, 'lon': -99.163593}",11 RIO AMAZONAS-RIO LERMA,"[3, 12, 19]",19.430992,-99.163593
+145,020 - Reforma- Rio Tamesis,Cuauhtémoc,20,"{'lat': 19.430964, 'lon': -99.160206}",20 REFORMA-RIO TAMESIS,"[12, 19, 27]",19.430964,-99.160206
+146,018 - Reforma - Rio Sena,Cuauhtémoc,18,"{'lat': 19.42836, 'lon': -99.165543}",18 REFORMA-RIO SENA,"[17, 25]",19.42836,-99.165543
+147,014 - Reforma - Rio de Plata,Cuauhtémoc,14,"{'lat': 19.424768, 'lon': -99.173261}",14 REFORMA-RIO DE PLATA,"[13, 21, 22, 28]",19.424768,-99.173261
+148,015 - Reforma - Rio Mississippi,Cuauhtémoc,15,"{'lat': 19.425477, 'lon': -99.171567}",15 REFORMA-RIO MISSISSIPPI,"[14, 16, 22, 23]",19.425477,-99.171567
+149,004 - Río Nilo - Río Panuco,Cuauhtémoc,4,"{'lat': 19.428309, 'lon': -99.171713}",4 RIO NILO-RIO PANUCO,"[5, 8, 9, 10]",19.428309,-99.171713
+150,005 - Río Pánuco Río Tiber,Cuauhtémoc,5,"{'lat': 19.42972, 'lon': -99.169363}",5 RIO PANUCO-RIO TIBER,"[2, 4, 9, 10]",19.42972,-99.169363
+151,006 - Río Pánuco - Río Sena,Cuauhtémoc,6,"{'lat': 19.430922, 'lon': -99.166959}",6 RIO PANUCO-RIO SENA,"[1, 3, 5, 10]",19.430922,-99.166959
+152,007 - Río Elba - Río Lerma,Cuauhtémoc,7,"{'lat': 19.425468, 'lon': -99.175166}",7 RIO ELBA-RIO LERMA,"[13, 14, 21, 28]",19.425468,-99.175166
+153,001 - Río Balsas-Río Sena,Cuauhtémoc,1,"{'lat': 19.433296, 'lon': -99.168051}",1 RIO BALSAS-RIO SENA,"[2, 3, 85]",19.433296,-99.168051
+154,002 - Río Guadalquivir - Río Balsas,Cuauhtémoc,2,"{'lat': 19.431386, 'lon': -99.171695}",2 RIO GUADALQUIVIR-RIO BALSAS,"[1, 5]",19.431386,-99.171695
+155,009 - Río Guadalquivir - Río Lerma,Cuauhtémoc,9,"{'lat': 19.428009, 'lon': -99.169918}",9 RIO GUADALQUIVIR-RIO LERMA,"[4, 5, 8, 16]",19.428009,-99.169918
+156,104 - San Jerónimo-Isabel la Católica,Cuauhtémoc,104,"{'lat': 19.427059, 'lon': -99.137116}",104 SAN JERONIMO-ISABEL LA CATOLICA,"[101, 105, 109]",19.427059,-99.137116
+157,124 - Claudio Bernard-Dr. Liceaga,Doctores,124,"{'lat': 19.422392, 'lon': -99.150358}",124 CLAUDIO BERNARD-DR. LICEAGA,"[119, 123, 133]",19.422392,-99.150358
+158,122 - José María Vértiz-Av. Dr. Río de la Loza,Doctores,122,"{'lat': 19.425502, 'lon': -99.146337}",122 JOSE MARIA VERTIZ-AV.DR. RIO DE LA LOZA,"[99, 108, 110]",19.425502,-99.146337
+159,357 - Matias Romero -Amores,Del Valle Centro,357,"{'lat': 19.380598, 'lon': -99.1669248}",357 MATIAS ROMERO -AMORES,"[356, 358, 373]",19.380598,-99.1669248
+160,358 - Nicolas San Juan-Matias Romero,Del Valle Centro,358,"{'lat': 19.380168, 'lon': -99.164222}",358 NICOLAS SAN JUAN-MATIAS ROMERO ,"[357, 360, 373]",19.380168,-99.164222
+161,359 - Matias Romero -Pestallozzi,Del Valle Centro,359,"{'lat': 19.379269, 'lon': -99.161169}",359 MATIAS ROMERO -PESTALLOZZI,"[342, 360, 374]",19.379269,-99.161169
+162,360 - Heriberto Frías-Matias Romero,Del Valle Centro,360,"{'lat': 19.3790279, 'lon': -99.1628259}",360 HERIBERTO FRÍAS-MATIAS ROMERO,"[358, 359, 374]",19.3790279,-99.1628259
+163,324 - Amores-Avenida Eugenia,Del Valle Centro,324,"{'lat': 19.3872468, 'lon': -99.1656554}",324 AMORES-AVENIDA EUGENIA,"[323, 336, 337]",19.3872468,-99.1656554
+164,343 - Enrique Rébsamen-División Del Norte,Del Valle Centro,343,"{'lat': 19.384099, 'lon': -99.160826}",343 ENRIQUE RÉBSAMEN-DIVISIÓN DEL NORTE,"[338, 341, 344]",19.384099,-99.160826
+165,344 - Heriberto Frías-Angel Urraza Eje 6 Sur,Del Valle Centro,344,"{'lat': 19.382107, 'lon': -99.162243}",344 HERIBERTO FRÍAS-ANGEL URRAZA EJE 6 SUR,"[338, 343, 358]",19.382107,-99.162243
+166,335 - Magdalena-Ameyalco,Del Valle Centro,335,"{'lat': 19.387003, 'lon': -99.173504}",335 MAGDALENA-AMEYALCO,"[326, 334, 346]",19.387003,-99.173504
+167,336 - San Borja-Cda. Bartoloche,Del Valle Centro,336,"{'lat': 19.385531, 'lon': -99.169673}",336 SAN BORJA-CDA. BARTOLOCHE,"[325, 337, 345]",19.385531,-99.169673
+168,337 - San Borja-Martín Menlalde,Del Valle Centro,337,"{'lat': 19.384849, 'lon': -99.16704}",337 SAN BORJA-MARTÍN MENLALDE,"[324, 336, 338]",19.384849,-99.16704
+169,338 - Nicolas San Juan-San Borja,Del Valle Centro,338,"{'lat': 19.384249, 'lon': -99.163273}",338 NICOLAS SAN JUAN-SAN BORJA,"[324, 336, 337]",19.384249,-99.163273
+170,373 - Pilares-Gabriel Mancera,Del Valle Centro,373,"{'lat': 19.377968, 'lon': -99.166663}",373 PILARES-GABRIEL MANCERA,"[357, 372, 378]",19.377968,-99.166663
+171,374 - Anaxágoras-Pilares,Del Valle Centro,374,"{'lat': 19.376964, 'lon': -99.161116}",374 PITÁGORAS-PILARES,"[359, 375, 376]",19.376964,-99.161116
+172,282 - La Morena-Eje 2 Poniente Gabriel Mancera,Del Valle Norte,282,"{'lat': 19.398692, 'lon': -99.161273}",282 LA MORENA-EJE 2 PONIENTE GABRIEL MANCERA,"[278, 293, 294]",19.398692,-99.161273
+173,279 - La Morena-Providencia,Del Valle Norte,279,"{'lat': 19.399908, 'lon': -99.166553}",279 LA MORENA-PROVIDENCIA,"[164, 278, 282]",19.399908,-99.166553
+174,323 - Concepción Beistegui-Gabriel Mancera,Del Valle Norte,323,"{'lat': 19.389026, 'lon': -99.163403}",323 CONCEPCIÓN BEISTEGUI-GABRIEL MANCERA,"[319, 322, 324]",19.389026,-99.163403
+175,316 - San Francisco-Concepción Beistegui,Del Valle Norte,316,"{'lat': 19.391056, 'lon': -99.1712}",316 SAN FRANCISCO-CONCEPCIÓN BEISTEGUI,"[301, 302, 315]",19.391056,-99.1712
+176,317 - Avenida Coyoacán-Torres Adalid,Del Valle Norte,317,"{'lat': 19.391456, 'lon': -99.166157}",317 AVENIDA COYOACÁN-TORRES ADALID,"[299, 300, 318]",19.391456,-99.166157
+177,318 - Luz Saviñón-Amores,Del Valle Norte,318,"{'lat': 19.392249, 'lon': -99.164127}",318 LUZ SAVIÑÓN-AMORES,"[299, 317, 319]",19.392249,-99.164127
+178,319 - Diagonal San Antonio-Luz Saviñon,Del Valle Norte,319,"{'lat': 19.391991, 'lon': -99.162684}",319 DIAGONAL SAN ANTONIO-LUZ SAVIÑON,"[298, 318, 320]",19.391991,-99.162684
+179,291 - Magdalena-División Del Norte,Del Valle Norte,291,"{'lat': 19.397651, 'lon': -99.169946}",291 MAGDALENA-DIVISIÓN DEL NORTE,"[283, 284, 290]",19.397651,-99.169946
+180,292 - Adolfo Prieto-Eje 4 Sur Xola,Del Valle Norte,292,"{'lat': 19.396917, 'lon': -99.166264}",292 ADOLFO PRIETO-EJE 4 SUR XOLA,"[283, 293, 299]",19.396917,-99.166264
+181,293 - Mier Y Pesado-Eje 4 Sur Xola,Del Valle Norte,293,"{'lat': 19.397373, 'lon': -99.164598}",293 MIER Y PESADO-EJE 4 SUR XOLA,"[283, 292, 294]",19.397373,-99.164598
+182,298 - Romero De Terreros-Gabriel Mancera,Del Valle Norte,298,"{'lat': 19.394073, 'lon': -99.16214}",298 ROMERO DE TERREROS-GABRIEL MANCERA,"[294, 318, 319]",19.394073,-99.16214
+183,299 - Romero De Terreros-Mier Y Pesado,Del Valle Norte,299,"{'lat': 19.394601, 'lon': -99.165054}",299 ROMERO DE TERREROS-MIER Y PESADO,"[292, 298, 318]",19.394601,-99.165054
+184,300 - Providencia -Luz Saviñon,Del Valle Norte,300,"{'lat': 19.393268, 'lon': -99.168333}",300 PROVIDENCIA -LUZ SAVIÑON,"[301, 302, 317]",19.393268,-99.168333
+185,301 - Luz Saviñón-Magdalena,Del Valle Norte,301,"{'lat': 19.393807, 'lon': -99.171133}",301 LUZ SAVIÑÓN-MAGDALENA,"[300, 302, 316]",19.393807,-99.171133
+186,302 - Luz Saviñon-Magdalena,Del Valle Norte,302,"{'lat': 19.393832, 'lon': -99.171466}",302 LUZ SAVIÑON-MAGDALENA,"[301, 303, 304]",19.393832,-99.171466
+187,377 - Heriberto Frías-Miguel Laurent,Del Valle Sur,377,"{'lat': 19.375394, 'lon': -99.16375}",377 HERIBERTO FRÍAS-MIGUEL LAURENT,"[373, 376, 400]",19.375394,-99.16375
+188,378 - Miguel Laurent-Amores,Del Valle Sur,378,"{'lat': 19.375823, 'lon': -99.168076}",378 MIGUEL LAURENT-AMORES,"[372, 373, 379]",19.375823,-99.168076
+189,390 - Oso-Felix Cuevas,Del Valle Sur,390,"{'lat': 19.373228, 'lon': -99.17826}",390 OSO-FELIX CUEVAS,"[389, 391, 416]",19.373228,-99.17826
+190,391 - Oso-Felix Cuevas,Del Valle Sur,391,"{'lat': 19.373142, 'lon': -99.178283}",391 OSO-FELIX CUEVAS,"[389, 390, 416]",19.373142,-99.178283
+191,394 - Dr. Roberto Gayol-Felix Cuevas,Del Valle Sur,394,"{'lat': 19.372437, 'lon': -99.171592}",394 DR. ROBERTO GAYOL-FELIX CUEVAS,"[393, 395, 396]",19.372437,-99.171592
+192,395 - San Lorenzo-Callejón Martín Menlalde,Del Valle Sur,395,"{'lat': 19.373742, 'lon': -99.169814}",395 SAN LORENZO-CALLEJÓN MARTÍN MENLALDE,"[379, 394, 396]",19.373742,-99.169814
+193,396 - Martín Menlalde-Felix Cuevas,Del Valle Sur,396,"{'lat': 19.371554, 'lon': -99.170187}",396 MARTÍN MENLALDE-FELIX CUEVAS,"[394, 395, 413]",19.371554,-99.170187
+194,397 - San Lorenzo-Gabriel Mancera,Del Valle Sur,397,"{'lat': 19.373194, 'lon': -99.167247}",397 SAN LORENZO-GABRIEL MANCERA,"[398, 399, 400]",19.373194,-99.167247
+195,398 - Sanchez Azcona-Felix Cuevas,Del Valle Sur,398,"{'lat': 19.37103, 'lon': -99.16566}",398 SANCHEZ AZCONA-FELIX CUEVAS,"[397, 399, 400]",19.37103,-99.16566
+196,399 - Heriberto Frías-San Lorenzo,Del Valle Sur,399,"{'lat': 19.372407, 'lon': -99.164519}",399 HERIBERTO FRÍAS-SAN LORENZO,"[397, 398, 400]",19.372407,-99.164519
+197,400 - San Lorenzo-Heriberto Frias,Del Valle Sur,400,"{'lat': 19.3726458, 'lon': -99.1642743}",400 SAN LORENZO-HERIBERTO FRIAS,"[397, 398, 399]",19.3726458,-99.1642743
+198,433 - Jose María Olloqui-Lopéz Costilla,Del Valle Sur,433,"{'lat': 19.363558, 'lon': -99.170819}",433 JOSE MARÍA OLLOQUI-LOPÉZ COSTILLA,"[434, 435, 439]",19.363558,-99.170819
+199,434 - Jose María Olloqui-Amores,Del Valle Sur,434,"{'lat': 19.363776, 'lon': -99.171498}",434 JOSE MARÍA OLLOQUI-AMORES,"[433, 435, 439]",19.363776,-99.171498
+200,424 - Amores-José María Rico (Eje 8),Del Valle Sur,424,"{'lat': 19.367208, 'lon': -99.170531}",424 AMORES-JOSÉ MARÍA RICO (EJE 8),"[413, 425, 435]",19.367208,-99.170531
+201,425 - Nicolas San Juan-Avenida Universidad,Del Valle Sur,425,"{'lat': 19.367087, 'lon': -99.16741}",425 NICOLAS SAN JUAN-AVENIDA UNIVERSIDAD,"[411, 412, 426]",19.367087,-99.16741
+202,413 - Parroquia-Avenida Coyoacán,Del Valle Sur,413,"{'lat': 19.369782, 'lon': -99.171906}",413 PARROQUIA-AVENIDA COYOACÁN,"[396, 414, 424]",19.369782,-99.171906
+203,414 - Parroquia-José Ignacio Bartolache,Del Valle Sur,414,"{'lat': 19.370187, 'lon': -99.173712}",414 PARROQUIA-JOSÉ IGNACIO BARTOLACHE,"[413, 415, 423]",19.370187,-99.173712
+204,415 - San Francisco-Parroquía,Del Valle Sur,415,"{'lat': 19.371498, 'lon': -99.17602}",415 SAN FRANCISCO-PARROQUÍA,"[391, 414, 416]",19.371498,-99.17602
+205,285 - 12 De Octubre-Mineria,Escandón,285,"{'lat': 19.399688, 'lon': -99.177524}",285 12 DE OCTUBRE-MINERIA,"[171, 173, 286]",19.399688,-99.177524
+206,286 - 13 De Septiembre-Avenida Patriotismo,Escandón,286,"{'lat': 19.399201, 'lon': -99.179943}",286 13 DE SEPTIEMBRE-AVENIDA PATRIOTISMO,"[171, 285, 287]",19.399201,-99.179943
+207,287 - 13 De Septiembre-Puente De La Morena,Escandón,287,"{'lat': 19.398946, 'lon': -99.183254}",287 13 DE SEPTIEMBRE-PUENTE DE LA MORENA,"[286, 288, 311]",19.398946,-99.183254
+208,175 - Mutualismo-José Martí,Escandón,175,"{'lat': 19.400806, 'lon': -99.172645}",175 MUTUALISMO-JOSÉ MARTí,"[169, 179, 182]",19.400806,-99.172645
+209,172 - General Francisco Murguia-Jose Martí,Escandón,172,"{'lat': 19.403365, 'lon': -99.181553}",172 GENERAL FRANCISCO MURGUIA-JOSE MARTÍ,"[167, 170, 171]",19.403365,-99.181553
+210,166 - Progreso-Cda. Antonio Maceo,Escandón,166,"{'lat': 19.406069, 'lon': -99.183549}",166 PROGRESO-CDA. ANTONIO MACEO,"[170, 172, 181]",19.406069,-99.183549
+211,167 - General Salvador Alvarado-Progreso,Escandón,167,"{'lat': 19.404651, 'lon': -99.179375}",167 GENERAL SALVADOR ALVARADO-PROGRESO,"[168, 172, 178]",19.404651,-99.179375
+212,168 - Comercio-Progreso,Escandón,168,"{'lat': 19.403997, 'lon': -99.1776}",168 COMERCIO-PROGRESO,"[167, 169, 173]",19.403997,-99.1776
+213,169 - Prosperidad-Progreso,Escandón,169,"{'lat': 19.403019, 'lon': -99.174934}",169 PROSPERIDAD-PROGRESO,"[168, 170, 175]",19.403019,-99.174934
+214,170 - Observatorio Oriente-Revolución,Escandón,170,"{'lat': 19.404029, 'lon': -99.184342}",170 OBSERVATORIO ORIENTE-REVOLUCIÓN,"[166, 167, 172]",19.404029,-99.184342
+215,383 - Luis Caracci-2da. Luis Caracci,Extremadura Insurgentes,383,"{'lat': 19.375764, 'lon': -99.181527}",383 LUIS CARACCI-2DA. LUIS CARACCI,"[366, 382, 387]",19.375764,-99.181527
+216,366 - Porfirio Díaz-Augusto Rodín,Extremadura Insurgentes,366,"{'lat': 19.378345, 'lon': -99.181973}",366 PORFIRIO DÍAZ-AUGUSTO RODÍN,"[362, 367, 368]",19.378345,-99.181973
+217,428 - Prolongación Uxmal-Av. Popocatepetl (Eje 8),General Pedro Maria Anaya,428,"{'lat': 19.363418, 'lon': -99.160353}",428 PROLONGACIÓN UXMAL-AV. POPOCATEPETL (EJE 8),"[427, 430, 431]",19.363418,-99.160353
+218,431 - Bruno Traven-Paz Montes De Oca,General Pedro Maria Anaya,431,"{'lat': 19.36145, 'lon': -99.15822}",431 BRUNO TRAVEN-PAZ MONTES DE OCA,"[428, 429, 430]",19.36145,-99.15822
+219,432 - Carrillo Pto-Golondrinas,General Pedro Maria Anaya,432,"{'lat': 19.361296, 'lon': -99.162581}",432 CARRILLO PUERTO-AV. MÉXICO-COYOACÁN,"[442, 443, 444]",19.361296,-99.162581
+220,444 - General Manuel Rincón-Agustín Gutierrez,General Pedro Maria Anaya,444,"{'lat': 19.359384, 'lon': -99.159425}",444 GENERAL MANUEL RINCÓN-AGUSTÍN GUTIERREZ,"[431, 432, 443]",19.359384,-99.159425
+221,445 - Riff-Avenida Rio Churubusco,General Pedro Maria Anaya,445,"{'lat': 19.35827, 'lon': -99.156105}",445 RIFF-AVENIDA RIO CHURUBUSCO,"[431, 444, 446]",19.35827,-99.156105
+222,446 - Riff-Avenida Rio Churubusco,General Pedro Maria Anaya,446,"{'lat': 19.3591196, 'lon': -99.1561282}",446 RIFF-AVENIDA RIO CHURUBUSCO,"[431, 444, 445]",19.3591196,-99.1561282
+223,242 - Miguel de Cervantes Saavedra-Pról. Moliere,Granada,242,"{'lat': 19.440344, 'lon': -99.20105}",242 MIGUEL DE CERVANTES SAAVEDRA-PROL MOLIERE ,"[198, 199, 243]",19.440344,-99.20105
+224,244 - Miguel de Cervantes Saavedra-Lago Victoria,Granada,244,"{'lat': 19.440885, 'lon': -99.193315}",244 MIGUEL DE CERVANTES SAAVEDRA-LAGO VICTORIA ,"[196, 243, 245]",19.440885,-99.193315
+225,245 - Lago Onega-Av. Ejército Nacional,Granada,245,"{'lat': 19.438165, 'lon': -99.190368}",245 LAGO ONEGA-AV. EJERCITO NACIONAL ,"[196, 200, 201]",19.438165,-99.190368
+226,177 - BENJAMIN HILL-CARLOS ZETINA,Hipódromo Condesa,177,"{'lat': 19.408841, 'lon': -99.181692}",177 BENJAMIN HILL-CARLOS ZETINA,"[176, 178, 190]",19.408841,-99.181692
+227,178 - Tamaulipas-Francisco Murguía,Hipódromo Condesa,178,"{'lat': 19.406833, 'lon': -99.180457}",178 TAMAULIPAS-FRANCISCO MURGUÍA,"[166, 167, 177]",19.406833,-99.180457
+228,073 - Campeche - Tamaulipas,Hipódromo Condesa,73,"{'lat': 19.410245, 'lon': -99.175612}",73 CAMPECHE-TAMAULIPAS,"[67, 68, 75]",19.410245,-99.175612
+229,075 - Alfonso Reyes - Atlixco,Hipódromo Condesa,75,"{'lat': 19.408722, 'lon': -99.17669}",75 ALFONSO REYES-ATLIXCO,"[73, 77, 78]",19.408722,-99.17669
+230,076 - Amsterdam - Chilpancingo,Hipódromo,76,"{'lat': 19.409439, 'lon': -99.170462}",76 AMSTERDAM-CHILPANCINGO,[74],19.409439,-99.170462
+231,077 - Choapan - Tamaulipas,Hipódromo,77,"{'lat': 19.406765, 'lon': -99.178321}",77 CHOAPAN-TAMAULIPAS,"[78, 82]",19.406765,-99.178321
+232,078 - Benjamín Hill - Tamaulipas,Hipódromo,78,"{'lat': 19.407503, 'lon': -99.177382}",78 BENJAMIN HILL-TAMAULIPAS,"[77, 82]",19.407503,-99.177382
+233,079 - Saltillo - Alfonso Reyes,Hipódromo,79,"{'lat': 19.407534, 'lon': -99.174427}",79 SALTILLO-ALFONSO REYES,"[75, 80, 83]",19.407534,-99.174427
+234,080 - Nuevo León - Aguascalientes,Hipódromo,80,"{'lat': 19.407307, 'lon': -99.172118}",80 NUEVO LEON-AGUASCALIENTES,"[79, 83, 84]",19.407307,-99.172118
+235,081 - Aguascalientes - Insurgentes,Hipódromo,81,"{'lat': 19.408006, 'lon': -99.168475}",81 AGUASCALIENTES-INSURGENTES,"[76, 84]",19.408006,-99.168475
+236,061 - Avenida México - Sonora,Hipódromo,61,"{'lat': 19.413742, 'lon': -99.169525}",61 AVENIDA MEXICO-SONORA,[63],19.413742,-99.169525
+237,069 - Michoacán - Amsterdam,Hipódromo,69,"{'lat': 19.410733, 'lon': -99.168111}",69 MICHOACAN-AMSTERDAM,"[76, 77]",19.410733,-99.168111
+238,059 - Popocatépetl - Amsterdam,Hipódromo,59,"{'lat': 19.415121, 'lon': -99.166661}",59 POPOCATEPETL-AMSTERDAM,"[55, 56, 61]",19.415121,-99.166661
+239,083 - Nuevo León - Alfonso Reyes,Hipódromo,83,"{'lat': 19.406296, 'lon': -99.172117}",83 NUEVO LEON-ALFONSO REYES,"[79, 80]",19.406296,-99.172117
+240,084 - Chilpancingo - Tlaxcala,Hipódromo,84,"{'lat': 19.40702, 'lon': -99.169587}",84 CHILPANCINGO-TLAXCALA,"[81, 83]",19.40702,-99.169587
+241,071 - Amsterdam - Michoacan,Hipódromo,71,"{'lat': 19.411423, 'lon': -99.171351}",71 AMSTERDAM-MICHOACAN,"[74, 76]",19.411423,-99.171351
+242,064 - Sonora - Amsterdam,Hipódromo,64,"{'lat': 19.412877, 'lon': -99.166986}",64 SONORA-AMSTERDAM,"[61, 69]",19.412877,-99.166986
+243,179 - Nuevo León-Quintana Roo,Hipódromo,179,"{'lat': 19.404452, 'lon': -99.171438}",179 NUEVO LEÓN-QUINTANA ROO,"[154, 180, 182]",19.404452,-99.171438
+244,180 - Quintana Roo-Villa Hermosa,Hipódromo,180,"{'lat': 19.404554, 'lon': -99.169953}",180 QUINTANA ROO-VILLA HERMOSA,"[154, 179, 182]",19.404554,-99.169953
+245,182 - PROGRESO-ASTRONOMOS,Hipódromo,182,"{'lat': 19.402089, 'lon': -99.17139}",182 PROGRESO-ASTRONOMOS,"[175, 179]",19.402089,-99.17139
+246,417 - Goya-Augusto Rodín,Insurgentes Mixcoac,417,"{'lat': 19.373262, 'lon': -99.184333}",417 GOYA-AUGUSTO RODÍN,"[384, 385, 386]",19.373262,-99.184333
+247,418 - Galicia-Actipan,Insurgentes Mixcoac,418,"{'lat': 19.371152, 'lon': -99.183034}",418 GALICIA-ACTIPAN,"[388, 417, 419]",19.371152,-99.183034
+248,419 - Actipan-Cadiz,Insurgentes Mixcoac,419,"{'lat': 19.370606, 'lon': -99.181502}",419 ACTIPAN-CADIZ,"[418, 420, 421]",19.370606,-99.181502
+249,384 - Empresa-Poussin,Insurgentes Mixcoac,384,"{'lat': 19.375873, 'lon': -99.185583}",384 EMPRESA-POUSSIN,"[385, 386, 417]",19.375873,-99.185583
+250,385 - Poussin-Empresa,Insurgentes Mixcoac,385,"{'lat': 19.375651, 'lon': -99.18558}",385 POUSSIN-EMPRESA,"[384, 386, 417]",19.375651,-99.18558
+251,386 - Poussin-Donatello,Insurgentes Mixcoac,386,"{'lat': 19.37484, 'lon': -99.185846}",386 POUSSIN-DONATELLO,"[384, 385, 417]",19.37484,-99.185846
+252,387 - Cadiz-Empresa,Insurgentes Mixcoac,387,"{'lat': 19.37455556, 'lon': -99.180505555556}",387 CADIZ-EMPRESA,"[381, 382, 383]",19.37455556,-99.180505555556
+253,388 - Valencia-Malaga,Insurgentes Mixcoac,388,"{'lat': 19.373038, 'lon': -99.181355}",388 VALENCIA-MALAGA,"[387, 389, 390]",19.373038,-99.181355
+254,389 - Santander-Felix Cuevas,Insurgentes Mixcoac,389,"{'lat': 19.373528, 'lon': -99.179356}",389 SANTANDER-FELIX CUEVAS,"[388, 390, 391]",19.373528,-99.179356
+255,345 - Miraflores-Patricio Sanz,Insurgentes San Borja,345,"{'lat': 19.384498, 'lon': -99.172223}",345 MIRAFLORES-PATRICIO SANZ,"[334, 335, 346]",19.384498,-99.172223
+256,346 - San Francisco-Santa Margarita,Insurgentes San Borja,346,"{'lat': 19.385019, 'lon': -99.174077}",346 SAN FRANCISCO-SANTA MARGARITA,"[334, 335, 345]",19.385019,-99.174077
+257,355 - California-Sacramento,Insurgentes San Borja,355,"{'lat': 19.38205, 'lon': -99.173291}",355 CALIFORNIA-SACRAMENTO,"[345, 361]",19.38205,-99.173291
+258,447 AGUSTÍN MELGAR-ZAMORA,Juárez,447,"{'lat': 19.418858, 'lon': -99.176776}",447 AGUSTÍN MELGAR-ZAMORA,[447],19.418858,-99.176776
+259,449 ACAPULCO-PUEBLA,Juárez,449,"{'lat': 19.42018, 'lon': -99.174393}",449 ACAPULCO-PUEBLA,[449],19.42018,-99.174393
+260,113 - General Prim-Versalles,Juárez,113,"{'lat': 19.430369, 'lon': -99.154419}",113 GENERAL PRIM-VERSALLES,"[114, 116, 119]",19.430369,-99.154419
+261,114 - Lucerna-Abraham González,Juárez,114,"{'lat': 19.428989, 'lon': -99.153618}",114 LUCERNA-ABRAHAM GONZALEZ ,"[113, 116, 119]",19.428989,-99.153618
+262,115 - Roma-Dinamarca,Juárez,115,"{'lat': 19.429947, 'lon': -99.159698}",115 ROMA-DINAMARCA ,"[116, 117, 118]",19.429947,-99.159698
+263,116 - Londres-Roma,Juárez,116,"{'lat': 19.428985, 'lon': -99.15664}",116 LONDRES-ROMA,"[118, 199]",19.428985,-99.15664
+264,117 - Londres-Napoles,Juárez,117,"{'lat': 19.427132, 'lon': -99.160369}",117 LONDRES-NAPOLES ,"[116, 118, 120]",19.427132,-99.160369
+265,118 - Liverpool-Dinamarca,Juárez,118,"{'lat': 19.427114, 'lon': -99.158251}",118 LIVERPOOL-DINAMARCA,"[116, 117, 120]",19.427114,-99.158251
+266,119 - Turín-Abraham González,Juárez,119,"{'lat': 19.42679, 'lon': -99.15554}",119 TURÍN-ABRAHAM GONZÁLEZ,"[114, 118]",19.42679,-99.15554
+267,120 - Marsella-Nápoles,Juárez,120,"{'lat': 19.425437, 'lon': -99.159458}",120 MARSELLA-NAPOLES,"[117, 118, 121]",19.425437,-99.159458
+268,121 - Niza-Chapultepec,Juárez,121,"{'lat': 19.424137, 'lon': -99.161317}",121 NIZA-CHAPULTEPEC,"[117, 120]",19.424137,-99.161317
+269,030 - Hamburgo - Genova,Juárez,30,"{'lat': 19.426442, 'lon': -99.164323}",30 HAMBURGO-GENOVA,"[26, 34, 35]",19.426442,-99.164323
+270,031 - Hamburgo - Insurgentes,Juárez,31,"{'lat': 19.427838, 'lon': -99.161193}",31 HAMBURGO-INSURGENTES,"[19, 27, 30]",19.427838,-99.161193
+271,032 - Londres - Sevilla,Juárez,32,"{'lat': 19.422705, 'lon': -99.169922}",32 LONDRES-SEVILLA,"[22, 38, 39]",19.422705,-99.169922
+272,033 - Londres - Florencia,Juárez,33,"{'lat': 19.424234, 'lon': -99.166431}",33 LONDRES-FLORENCIA,"[29, 39, 40]",19.424234,-99.166431
+273,034 - Liverpool - Genova,Juárez,34,"{'lat': 19.424539, 'lon': -99.163503}",34 LIVERPOOL-GENOVA,"[30, 33, 35]",19.424539,-99.163503
+274,035 - Liverpool - Genova,Juárez,35,"{'lat': 19.424572, 'lon': -99.163123}",35 LIVERPOOL-GENOVA,"[30, 34, 40]",19.424572,-99.163123
+275,022 - Reforma - Manchester,Juárez,22,"{'lat': 19.424375, 'lon': -99.172575}",22 REFORMA-MANCHESTER,"[14, 15, 23, 28]",19.424375,-99.172575
+276,023 - Reforma - Praga,Juárez,23,"{'lat': 19.425483, 'lon': -99.170414}",23 REFORMA-PRAGA,"[15, 16, 22]",19.425483,-99.170414
+277,024 - Reforma- Varsovia,Juárez,24,"{'lat': 19.426102, 'lon': -99.168992}",24 REFORMA-VARSOVIA,"[16, 23]",19.426102,-99.168992
+278,025 - Reforma - Estocolmo,Juárez,25,"{'lat': 19.426944, 'lon': -99.166946}",25 REFORMA-ESTOCOLMO,"[17, 18]",19.426944,-99.166946
+279,026 - Reforma - Versalles,Juárez,26,"{'lat': 19.432685, 'lon': -99.154726}",26 REFORMA-VERSALLES,[10],19.432685,-99.154726
+280,027 - Reforma- Havre,Juárez,27,"{'lat': 19.429115, 'lon': -99.162614}",27 REFORMA-HAVRE,"[19, 26, 31]",19.429115,-99.162614
+281,028 - Toledo- Tokio,Juárez,28,"{'lat': 19.423542, 'lon': -99.172494}",28 TOLEDO-TOKIO,"[14, 21, 22]",19.423542,-99.172494
+282,404 - Miguel Laurent-Avenida División Del Norte,Letran Valle,404,"{'lat': 19.373813, 'lon': -99.157387}",404 MIGUEL LAURENT-AVENIDA DIVISIÓN DEL NORTE,"[402, 403, 405]",19.373813,-99.157387
+283,375 - Tenayuca-División Del Norte,Letran Valle,375,"{'lat': 19.376865, 'lon': -99.158818}",375 TENAYUCA-DIVISIÓN DEL NORTE,"[359, 374, 376]",19.376865,-99.158818
+284,376 - Pitágoras-Av. Universidad,Letran Valle,376,"{'lat': 19.375442, 'lon': -99.161595}",376 PITÁGORAS-AV. UNIVERSIDAD,"[374, 375, 377]",19.375442,-99.161595
+285,333 - Georgia -Carolina,Nápoles,333,"{'lat': 19.387624, 'lon': -99.180978}",333 GEORGIA -CAROLINA,"[330, 332, 349]",19.387624,-99.180978
+286,284 - Dakota-Vermont,Nápoles,284,"{'lat': 19.397693, 'lon': -99.172981}",284 DAKOTA-VERMONT,"[289, 290, 291]",19.397693,-99.172981
+287,303 - Montesito-Av. Insurgentes,Nápoles,303,"{'lat': 19.394842, 'lon': -99.173025}",303 MONTESITO-AV. INSURGENTES,"[301, 302, 304]",19.394842,-99.173025
+288,304 - Montesito-Dakota,Nápoles,304,"{'lat': 19.395043, 'lon': -99.173821}",304 MONTESITO-DAKOTA,"[290, 303, 305]",19.395043,-99.173821
+289,309 - Pennsylvania-Arizona,Nápoles,309,"{'lat': 19.393162, 'lon': -99.17956}",309 PENNSYLVANIA-ARIZONA,"[308, 310, 313]",19.393162,-99.17956
+290,306 - Dakota-Filadelfia,Nápoles,306,"{'lat': 19.393699, 'lon': -99.175664}",306 DAKOTA-FILADELFIA,"[305, 307, 308]",19.393699,-99.175664
+291,307 - Minesota-Dakota,Nápoles,307,"{'lat': 19.393701, 'lon': -99.175834}",307 MINESOTA-DAKOTA,"[305, 306, 308]",19.393701,-99.175834
+292,289 - Chicago-Yosemite,Nápoles,289,"{'lat': 19.397308, 'lon': -99.174548}",289 CHICAGO-YOSEMITE,"[284, 290, 304]",19.397308,-99.174548
+293,290 - Yosemite-Colorado,Nápoles,290,"{'lat': 19.396333, 'lon': -99.172667}",290 YOSEMITE-COLORADO,"[284, 289, 303]",19.396333,-99.172667
+294,314 - Nuerva York-Louisiana,Nápoles,314,"{'lat': 19.391647, 'lon': -99.177331}",314 NUERVA YORK-LOUISIANA,"[307, 313, 327]",19.391647,-99.177331
+295,315 - Alabama-Montana,Nápoles,315,"{'lat': 19.391472, 'lon': -99.1736}",315 ALABAMA-MONTANA,"[301, 302, 316]",19.391472,-99.1736
+296,327 - Georgia -Pennsylvania,Nápoles,327,"{'lat': 19.38885, 'lon': -99.17772}",327 GEORGIA -PENNSYLVANIA,"[313, 314, 326]",19.38885,-99.17772
+297,320 - Enrique Rébsamen-Luz Saviñon,Narvarte Poniente,320,"{'lat': 19.391323, 'lon': -99.15936}",320 ENRIQUE RÉBSAMEN-LUZ SAVIÑON,"[296, 297, 319]",19.391323,-99.15936
+298,294 - Nicolás San Juan-Eje 4 Sur Xola,Narvarte Poniente,294,"{'lat': 19.396513, 'lon': -99.160924}",294 NICOLÁS SAN JUAN-EJE 4 SUR XOLA,"[282, 295, 298]",19.396513,-99.160924
+299,295 - Anaxágoras-Eje 4 Sur Xola,Narvarte Poniente,295,"{'lat': 19.396328, 'lon': -99.156871}",295 ANAXÁGORAS-EJE 4 SUR XOLA,"[281, 296, 297]",19.396328,-99.156871
+300,296 - Diagonal San Antonio-Enrique Rébsamen,Narvarte Poniente,296,"{'lat': 19.394283, 'lon': -99.158756}",296 DIAGONAL SAN ANTONIO-ENRIQUE RÉBSAMEN,"[295, 297, 320]",19.394283,-99.158756
+301,297 - Diagonal San Antonio-Enrique Rébsamen,Narvarte Poniente,297,"{'lat': 19.394412, 'lon': -99.158907}",297 DIAGONAL SAN ANTONIO-ENRIQUE RÉBSAMEN,"[295, 296, 320]",19.394412,-99.158907
+302,280 - Anaxágoras-Obrero Mundial,Narvarte Poniente,280,"{'lat': 19.4015, 'lon': -99.156406}",280 ANAXÁGORAS-OBRERO MUNDIAL,"[276, 277, 281]",19.4015,-99.156406
+303,281 - Pitágoras-La Morena,Narvarte Poniente,281,"{'lat': 19.398532, 'lon': -99.157308}",281 PITÁGORAS-LA MORENA,"[276, 280, 295]",19.398532,-99.157308
+304,276 - Anaxágoras-Obrero Mundial,Narvarte Poniente,276,"{'lat': 19.401986, 'lon': -99.156366}",276 ANAXÁGORAS-OBRERO MUNDIAL,"[277, 280, 281]",19.401986,-99.156366
+305,339 - Enrique Rébsamen-Avenida Eugenia,Narvarte Poniente,339,"{'lat': 19.386032, 'lon': -99.160548}",339 ENRIQUE RÉBSAMEN-AVENIDA EUGENIA,"[322, 340, 343]",19.386032,-99.160548
+306,340 - Anaxágoras-Avenida Eugenia,Narvarte Poniente,340,"{'lat': 19.385571, 'lon': -99.158188}",340 ANAXÁGORAS-AVENIDA EUGENIA,"[339, 341, 343]",19.385571,-99.158188
+307,341 - San Borja-Avenida Cuauhtemoc,Narvarte Poniente,341,"{'lat': 19.382851, 'lon': -99.158204}",341 SAN BORJA-AVENIDA CUAUHTEMOC,"[340, 343, 364]",19.382851,-99.158204
+308,342 - Anaxágoras-Angel Urraza Eje 6 Sur,Narvarte Poniente,342,"{'lat': 19.381076, 'lon': -99.159455}",342 ANAXÁGORAS-ANGEL URRAZA EJE 6 SUR,"[341, 344, 359]",19.381076,-99.159455
+309,367 - Boston -Augusto Rodín,Noche Buena,367,"{'lat': 19.37946, 'lon': -99.181632}",367 BOSTON -AUGUSTO RODÍN,"[362, 363, 366]",19.37946,-99.181632
+310,354 - Boston-Av. Insurgentes,Noche Buena,354,"{'lat': 19.381665, 'lon': -99.176685}",354 BOSTON-AV. INSURGENTES,"[353, 361, 369]",19.381665,-99.176685
+311,451 CAMPOS ELÍSEOS-GOLDSMITH,Polanco,451,"{'lat': 19.42902, 'lon': -99.201322}",451 CAMPOS ELÍSEOS-GOLDSMITH,[451],19.42902,-99.201322
+312,233 - Julio Verne-Luis G. Urbina,Polanco,233,"{'lat': 19.429314, 'lon': -99.196965}",233 JULIO VERNE-LUIS G. URBINA ,"[222, 230, 231]",19.429314,-99.196965
+313,239 - Rincon del Bosque-Ruben Dario,Polanco,239,"{'lat': 19.430153, 'lon': -99.181355}",239 RINCON DEL BOSQUE-RUBEN DARÍO ,"[226, 247, 250]",19.430153,-99.181355
+314,204- Ejercito Nacional-F.C. de Cuernavaca,Polanco,240,"{'lat': 19.43855, 'lon': -99.2063}",240 EJERCITO NACIONAL-F.C. DE CUERNAVACA ,"[198, 241]",19.43855,-99.2063
+315,241 - Ejercito Nacional-Juan Vazquez de la Mella,Polanco,241,"{'lat': 19.43862, 'lon': -99.20758}",241 EJERCITO NAL-JUAN VAZQUEZ DE LA MELLA ,"[198, 240]",19.43862,-99.20758
+316,235 - Campos Eliseos-Moliere,Polanco,235,"{'lat': 19.42933, 'lon': -99.20218}",235 CAMPOS ELISEOS-MOLIERE ,"[229, 230, 236]",19.42933,-99.20218
+317,236 - Campos Eliseos-Moliere,Polanco,236,"{'lat': 19.42944, 'lon': -99.20243}",236 CAMPOS ELISEOS-MOLIERE ,"[229, 230, 235]",19.42944,-99.20243
+318,196 - Lago Tanganica- Av. Ejército Nacional,Polanco,196,"{'lat': 19.438349, 'lon': -99.192904}",196 LAGO TANGANICA-AV. EJERCITO NACIONAL,"[204, 244, 245]",19.438349,-99.192904
+319,228 - Campos Elíseos-Jean de La fontaine,Polanco,228,"{'lat': 19.427705, 'lon': -99.19912}",228 CAMPOS ELÍSEOS-JEAN DE LA FONTAINE,"[230, 233, 235]",19.427705,-99.19912
+320,229 - Dickens-Seneca,Polanco,229,"{'lat': 19.430515, 'lon': -99.203331}",229 DICKENS-SENECA,"[221, 235, 236]",19.430515,-99.203331
+321,230 - Edgar Alan Poe-Dickens,Polanco,230,"{'lat': 19.430098, 'lon': -99.200074}",230 EDGAR ALAN POE-DICKENS,"[221, 235, 236]",19.430098,-99.200074
+322,231 - Newton-Aristoteles,Polanco,231,"{'lat': 19.42977, 'lon': -99.19349}",231 NEWTON-ARISTOTELES ,"[222, 223, 234]",19.42977,-99.19349
+323,198 - Sócrates-Ejercito Nacional,Polanco,198,"{'lat': 19.438168, 'lon': -99.203888}",198 SÓCRATES-EJERCITO NACIONAL ,"[240, 241]",19.438168,-99.203888
+324,199 - Anatole France-Av. Ejército Nacional,Polanco,199,"{'lat': 19.437934, 'lon': -99.197241}",199 ANATOLE FRANCE-AV. EJERCITO NACIONAL,"[196, 202, 203]",19.437934,-99.197241
+325,200 - Emerson-Av. Ejército Nacional,Polanco,200,"{'lat': 19.437596, 'lon': -99.188785}",200 EMERSON-AV. EJERCITO NACIONAL,"[201, 204, 245]",19.437596,-99.188785
+326,201 - Lope de Vega-Ejército Nacional,Polanco,201,"{'lat': 19.437431, 'lon': -99.187215}",201 LOPE DE VEGA-EJERCITO NACIONAL ,"[200, 205, 245]",19.437431,-99.187215
+327,202 - Calderón de la Barca-Av. Homero,Polanco,202,"{'lat': 19.43617, 'lon': -99.198943}",202 CALDERON DE LA BARCA-AV. HOMERO,"[199, 206, 215]",19.43617,-99.198943
+328,203 - Tennyson-Av. Homero,Polanco,203,"{'lat': 19.435985, 'lon': -99.194832}",203 TENNYSON-AV. HOMERO,"[196, 204, 210]",19.435985,-99.194832
+329,205 - Taine-Homero,Polanco,205,"{'lat': 19.435525, 'lon': -99.184713}",205 TAINE-HOMERO,"[201, 207, 217]",19.435525,-99.184713
+330,206 - Moliere-Homero,Polanco,206,"{'lat': 19.435798, 'lon': -99.201419}",206 MOLIERE-HOMERO ,"[202, 214, 215]",19.435798,-99.201419
+331,207 - Tasso-Homero,Polanco,207,"{'lat': 19.434861, 'lon': -99.183322}",207 TASSO-HOMERO ,"[205, 217, 226]",19.434861,-99.183322
+332,208 - Hesiodo-Lamartine,Polanco,208,"{'lat': 19.434182, 'lon': -99.189835}",208 HESIODO-LAMARTINE ,"[211, 212, 218]",19.434182,-99.189835
+333,209 - Solón-Horacio,Polanco,209,"{'lat': 19.435478, 'lon': -99.206359}",209 SOLON-HORACIO ,"[213, 214, 219]",19.435478,-99.206359
+334,210 Eugenio Sue-Horacio,Polanco,210,"{'lat': 19.434076, 'lon': -99.194091}",210 EUGENIO SUE-HORACIO ,"[203, 204, 216]",19.434076,-99.194091
+335,211 - Newton-Horacio,Polanco,211,"{'lat': 19.433607, 'lon': -99.188528}",211 NEWTON-HORACIO,"[208, 212, 218]",19.433607,-99.188528
+336,212 - Hegel-Horacio,Polanco,212,"{'lat': 19.433567, 'lon': -99.188096}",212 HEGEL-HORACIO ,"[211, 218, 224]",19.433567,-99.188096
+337,213 - Horacio-FC Cuernavaca,Polanco,213,"{'lat': 19.435197, 'lon': -99.206967}",213 HORACIO-FC CUERNAVACA,"[209, 214, 219]",19.435197,-99.206967
+338,214 - Platón-Horacio,Polanco,214,"{'lat': 19.434353, 'lon': -99.20322}",214 PLATÓN-HORACIO,"[206, 209, 215]",19.434353,-99.20322
+339,215 - Edgar Alan Poe-Horacio,Polanco,215,"{'lat': 19.43384, 'lon': -99.19968}",215 EDGAR ALAN POE-HORACIO,"[206, 214, 221]",19.43384,-99.19968
+340,216 - Alejandro Dumas-Horacio,Polanco,216,"{'lat': 19.433419, 'lon': -99.195746}",216 ALEJANDRO DUMAS-HORACIO ,"[210, 222]",19.433419,-99.195746
+341,217 - Euler-Horacio,Polanco,217,"{'lat': 19.432888, 'lon': -99.183605}",217 EULER-AV. HORACIO ,"[207, 225, 226]",19.432888,-99.183605
+342,218 - Hegel-Ibarbourou,Polanco,218,"{'lat': 19.432451, 'lon': -99.188033}",218 HEGEL-IBARBOUROU ,"[211, 212, 224]",19.432451,-99.188033
+343,219 - Esopo-FC de Cuernavaca,Polanco,219,"{'lat': 19.433542, 'lon': -99.207808}",219 ESOPO-FC DE CUERNAVACA,"[213, 220, 227]",19.433542,-99.207808
+344,220 - Plino-Presidente Masaryk,Polanco,220,"{'lat': 19.432655, 'lon': -99.205727}",220 PLINIO-PRESIDENTE MASARYK ,"[213, 219, 227]",19.432655,-99.205727
+345,221 - Emilio Castelar-Presidente Masaryk,Polanco,221,"{'lat': 19.431799, 'lon': -99.201565}",221 EMILIO CASTELAR-PRESIDENTE MASARYK ,"[215, 230, 231]",19.431799,-99.201565
+346,222 - Alejandro Dumas-Presidente Masarik,Polanco,222,"{'lat': 19.431417, 'lon': -99.195774}",222 ALEJANDRO DUMAS-PRESIDENTE MASARYK,"[216, 231, 233]",19.431417,-99.195774
+347,223 - Newton-Presidente Masarik,Polanco,223,"{'lat': 19.431242, 'lon': -99.191613}",223 NEWTON-PRESIDENTE MASARYK ,"[222, 224, 231]",19.431242,-99.191613
+348,224 - Hegel-Presidente Masaryk,Polanco,224,"{'lat': 19.431255, 'lon': -99.188065}",224 HEGEL-PRESIDENTE MASARYK,"[212, 218, 225]",19.431255,-99.188065
+349,225 - Petrarca-Presidente Masaryk,Polanco,225,"{'lat': 19.431172, 'lon': -99.185612}",225 PETRARCA-PRESIDENTE MASARYK,"[224, 226, 232]",19.431172,-99.185612
+350,226 - Wallon-Presidente Masaryk,Polanco,226,"{'lat': 19.431033, 'lon': -99.18222}",226 WALLON-PRESIDENTE MASARYK,"[217, 239, 247]",19.431033,-99.18222
+351,405 - División Del Norte-Municipio Libre,Portales Norte,405,"{'lat': 19.370619, 'lon': -99.156626}",405 DIVISIÓN DEL NORTE-MUNICIPIO LIBRE,"[402, 403, 404]",19.370619,-99.156626
+352,407 - Prolongación Xochicalco-General Emiliano Zapat,Residencial Emperadores,407,"{'lat': 19.367294, 'lon': -99.158694}",407 PROL. XOCHICALCO-GENERAL EMILIANO ZAPATA,"[406, 408, 410]",19.367294,-99.158694
+353,408 - Prolongación Petén-General Emiliano Zapata,Residencial Emperadores,408,"{'lat': 19.36677, 'lon': -99.156843}",408 PROLONGACIÓN PETÉN-GENERAL EMILIANO ZAPATA,"[407, 409, 410]",19.36677,-99.156843
+354,037 - Guadalajara - Puebla,Roma Norte,37,"{'lat': 19.420419, 'lon': -99.172676}",37 GUADALAJARA-PUEBLA,"[28, 38]",19.420419,-99.172676
+355,038 - Cozumel - PUEBLA,Roma Norte,38,"{'lat': 19.420801, 'lon': -99.171407}",38 COZUMEL-PUEBLA,"[28, 32, 37]",19.420801,-99.171407
+356,039 - Medellin - Chapultepec,Roma Norte,39,"{'lat': 19.422484, 'lon': -99.167153}",39 MEDELLIN-CHAPULTEPEC,"[33, 42]",19.422484,-99.167153
+357,040 - Oaxaca - Puebla,Roma Norte,40,"{'lat': 19.42223, 'lon': -99.164297}",40 OAXACA-PUEBLA,"[35, 42]",19.42223,-99.164297
+358,056 - Alvaro Obregón - Medellin,Roma Norte,56,"{'lat': 19.416959, 'lon': -99.165702}",56 ALVARO OBREGON-MEDELLIN,"[47, 51, 55]",19.416959,-99.165702
+359,042 - Sinaloa - Valladolid,Roma Norte,42,"{'lat': 19.420472, 'lon': -99.168238}",42 SINALOA-VALLADOLID,"[39, 47, 51]",19.420472,-99.168238
+360,051 - Colima - Oaxaca,Roma Norte,51,"{'lat': 19.417995, 'lon': -99.168248}",51 COLIMA-OAXACA,"[46, 47, 55, 58]",19.417995,-99.168248
+361,044 - Durango - Veracruz,Roma Norte,44,"{'lat': 19.418057, 'lon': -99.174761}",44 DURANGO-VERACRUZ,"[36, 41, 49, 50]",19.418057,-99.174761
+362,045 - Durango - Sonora,Roma Norte,45,"{'lat': 19.418649, 'lon': -99.172127}",45 DURANGO-SONORA,"[37, 38, 41, 46]",19.418649,-99.172127
+363,046 - Durango - Salamanca,Roma Norte,46,"{'lat': 19.419214, 'lon': -99.169732}",46 DURANGO-SALAMANCA,"[42, 51, 54]",19.419214,-99.169732
+364,125 - Morelia-Circular de Morelia,Roma Norte,125,"{'lat': 19.424541, 'lon': -99.156204}",125 MORELIA-CIRCULAR DE MORELIA,"[119, 123, 127]",19.424541,-99.156204
+365,126 - Jalapa-Puebla,Roma Norte,126,"{'lat': 19.422288, 'lon': -99.162138}",126 JALAPA-PUEBLA,"[121, 129]",19.422288,-99.162138
+366,127 -  Puebla-Merida,Roma Norte,127,"{'lat': 19.423318, 'lon': -99.15833}",127 PUEBLA-MERIDA,[130],19.423318,-99.15833
+367,128 - Orizaba-Río de Janeiro,Roma Norte,128,"{'lat': 19.422148, 'lon': -99.160645}",128 ORIZABA-RIO DE JANEIRO,"[121, 126, 127]",19.422148,-99.160645
+368,129 - Tonalá-Durango,Roma Norte,129,"{'lat': 19.4206, 'lon': -99.163312}",129 TONALÁ-DURANGO,"[126, 131]",19.4206,-99.163312
+369,130 - Mérida-Durango,Roma Norte,130,"{'lat': 19.421576, 'lon': -99.158015}",130 MÉRIDA-DURANGO,"[127, 132, 133]",19.421576,-99.158015
+370,131 - Colima-Jalapa,Roma Norte,131,"{'lat': 19.419579, 'lon': -99.161314}",131 COLIMA-JALAPA,"[129, 134]",19.419579,-99.161314
+371,132 - Colima-Frontera,Roma Norte,132,"{'lat': 19.420667, 'lon': -99.15645}",132 COLIMA-FRONTERA,"[130, 133, 135]",19.420667,-99.15645
+372,133 - Colima-Morelia,Roma Norte,133,"{'lat': 19.421138, 'lon': -99.154725}",133 COLIMA-MORELIA,"[130, 132, 135]",19.421138,-99.154725
+373,134 - Álvaro Obregón-Orizaba,Roma Norte,134,"{'lat': 19.418304, 'lon': -99.15956}",134 ÁLVARO OBREGÓN-ORIZABA,"[131, 136, 137]",19.418304,-99.15956
+374,135 - Álvaro Obregón-Morelia,Roma Norte,135,"{'lat': 19.419225, 'lon': -99.155099}",135 ÁLVARO OBREGÓN-MORELIA,"[132, 133, 137]",19.419225,-99.155099
+375,136 - Tonalá-Álvaro Obregón,Roma Norte,136,"{'lat': 19.417715, 'lon': -99.162729}",136 ÁLVARO OBREGÓN-TONALÁ,[136],19.417715,-99.162729
+376,137 - Álvaro Obregón-Mérida,Roma Norte,137,"{'lat': 19.418774, 'lon': -99.157081}",137 ÁLVARO OBREGÓN-MÉRIDA,"[132, 135, 138]",19.418774,-99.157081
+377,138 - Guanajuato-Frontera,Roma Norte,138,"{'lat': 19.417702, 'lon': -99.155313}",138 GUANAJUATO-FRONTERA,"[135, 140, 144]",19.417702,-99.155313
+378,139 - Tonalá-Guanajuato,Roma Norte,139,"{'lat': 19.416128, 'lon': -99.162097}",139 TONALÁ-GUANJUATO,"[134, 136, 141]",19.416128,-99.162097
+379,140 - Mérida-Zacatecas,Roma Norte,140,"{'lat': 19.416605, 'lon': -99.156853}",140 MÉRIDA-ZACATECAS,"[138, 141, 144]",19.416605,-99.156853
+380,141 - Zacatecas-Luis Cabrera,Roma Norte,141,"{'lat': 19.415905, 'lon': -99.15954}",141 ZACATECAS-LUIS CABRERA,"[139, 140, 143]",19.415905,-99.15954
+381,142 - San Luis Potosí-Eje 2 Pte. Monterrey,Roma Norte,142,"{'lat': 19.413232, 'lon': -99.164121}",142 SAN LUIS POTOSI-EJE 2 PTE. MONTERREY,"[139, 145, 146]",19.413232,-99.164121
+382,143 - Córdoba-San Luis Potosí,Roma Norte,143,"{'lat': 19.414303, 'lon': -99.157542}",143 CÓRDOBA-SAN LUIS POTOSÍ,"[141, 144, 147]",19.414303,-99.157542
+383,144 - Frontera-San Luis Potosí,Roma Norte,144,"{'lat': 19.415192, 'lon': -99.154837}",144 FRONTERA-SAN LUIS POTOSÍ,"[140, 143, 148]",19.415192,-99.154837
+384,145 - Eje 2 Sur Yucatán-Chiapas,Roma Norte,145,"{'lat': 19.41286, 'lon': -99.160661}",145 EJE 2 SUR YUCATÁN-CHIAPAS,"[142, 147, 151]",19.41286,-99.160661
+385,146 - Coahuila-Manzanillo,Roma Norte,146,"{'lat': 19.410737, 'lon': -99.165716}",146 COAHUILA-MANZANILLO,"[150, 152, 153]",19.410737,-99.165716
+386,147 - Coahuila-Orizaba,Roma Norte,147,"{'lat': 19.412182, 'lon': -99.158443}",147 COAHUILA-ORIZABA,"[145, 149, 151]",19.412182,-99.158443
+387,148 - Coahuila-Av. Cuauhtémoc,Roma Norte,148,"{'lat': 19.412829, 'lon': -99.155116}",148 COAHUILA-AV.CUAUHTEMOC,"[143, 147, 149]",19.412829,-99.155116
+388,149 - Mérida-Antonio Anza,Roma Norte,149,"{'lat': 19.41199, 'lon': -99.155699}",149 MÉRIDA-ANTONIO ANZA,"[143, 147, 148]",19.41199,-99.155699
+389,151 - Campeche-Tonalá,Roma Sur,151,"{'lat': 19.410529, 'lon': -99.160873}",151 CAMPECHE-TONALÁ,"[145, 147, 155]",19.410529,-99.160873
+390,152 - Tlacotalpan-Campecha,Roma Sur,152,"{'lat': 19.409098, 'lon': -99.167181}",152 TLACOTALPAN-CAMPECHE,"[146, 150, 157]",19.409098,-99.167181
+391,153 - Manzanillo-Tlaxcala,Roma Sur,153,"{'lat': 19.407468, 'lon': -99.165141}",153 MANZANILLO-TLAXCALA,"[154, 157, 161]",19.407468,-99.165141
+392,155 - Jalapa-Tlaxcala,Roma Sur,155,"{'lat': 19.408218, 'lon': -99.159911}",155 JALAPA-TLAXCALA,"[151, 156, 158]",19.408218,-99.159911
+393,156 - Tepic-Amenalco,Roma Sur,156,"{'lat': 19.407121, 'lon': -99.162202}",156 TEPIC-AMENALCO,"[153, 155, 162]",19.407121,-99.162202
+394,157 - Tepic-Tlacotalpan,Roma Sur,157,"{'lat': 19.406236, 'lon': -99.166616}",157 TEPIC-TLACOTALPAN,"[153, 154, 161]",19.406236,-99.166616
+395,158 - Huatabampo- Eje 1 Pte. Av. Cuauhtémoc,Roma Sur,158,"{'lat': 19.407447, 'lon': -99.155717}",158 HUATABAMPO-EJE 1PTE. CUAUHTÉMOC,"[155, 159, 163]",19.407447,-99.155717
+396,159 - Huatabampo-Eje 1 Pte. Av. Cuauhtémoc,Roma Sur,159,"{'lat': 19.407517, 'lon': -99.155373}",159 HUATABAMPO-EJE 1 PTE. AV. CUAUHTÉMOC,"[155, 158, 163]",19.407517,-99.155373
+397,161 - Quintana Roo-Manzanillo,Roma Sur,161,"{'lat': 19.405533, 'lon': -99.164913}",161 QUINTANA ROO-MANZANILLO,"[153, 157, 162]",19.405533,-99.164913
+398,162 - Tehuantepec-Medellín,Roma Sur,162,"{'lat': 19.404907, 'lon': -99.162485}",162 TEHUANTEPEC-MEDELLÍN,"[156, 161, 165]",19.404907,-99.162485
+399,163 - Toluca-Bajío,Roma Sur,163,"{'lat': 19.405246, 'lon': -99.156431}",163 TOLUCA-BAJÍO,"[158, 159, 165]",19.405246,-99.156431
+400,164 - Bajío-Tlacotalpan,Roma Sur,164,"{'lat': 19.403204, 'lon': -99.16596}",164 BAJÍO-TLACOTALPAN,"[157, 161, 162]",19.403204,-99.16596
+401,165 - Bajío-Eje 2 Pte. Monterrey,Roma Sur,165,"{'lat': 19.404268, 'lon': -99.160503}",165 BAJÍO-EJE 2 PTE. MONTERREY,"[156, 162, 163]",19.404268,-99.160503
+402,409 - Azores-División Del Norte,Santa Cruz Atoyac,409,"{'lat': 19.365102, 'lon': -99.155499}",409 AZORES-DIVISIÓN DEL NORTE,"[408, 410, 430]",19.365102,-99.155499
+403,410 - Prolongación Tajín-Prolongación Repúblicas,Santa Cruz Atoyac,410,"{'lat': 19.36564, 'lon': -99.158063}",410 PROLONGACIÓN TAJÍN-PROLONGACIÓN REPÚBLICAS,"[407, 408, 409]",19.36564,-99.158063
+404,411 - Parroquia-Avenida México-Coyoacan,Santa Cruz Atoyac,411,"{'lat': 19.367864, 'lon': -99.163626}",411 PARROQUIA-AVENIDA MÉXICO-COYOACAN,"[412, 425, 427]",19.367864,-99.163626
+405,412 - Parroquia-Avenida Universidad,Santa Cruz Atoyac,412,"{'lat': 19.3684182, 'lon': -99.1654145}",412 PARROQUIA-AVENIDA UNIVERSIDAD,"[411, 425, 426]",19.3684182,-99.1654145
+406,406 - Parroquia Av. Mexico-Coyoacan,Santa Cruz Atoyac,406,"{'lat': 19.367831, 'lon': -99.163261}",406 PARROQUIA AV. MEXICO-COYOACAN,"[402, 407, 411]",19.367831,-99.163261
+407,427 - Avenida México-Coyoacan-Av. Popocatepetl (Eje,Santa Cruz Atoyac,427,"{'lat': 19.365023, 'lon': -99.162993}",427 AVENIDA MÉXICO-COYOACAN-AV. POPOCATEPETL (EJE ,"[411, 412, 426]",19.365023,-99.162993
+408,429 - Pirineos-Av. Popocatepetl (Eje 8),Santa Cruz Atoyac,429,"{'lat': 19.363071, 'lon': -99.158292}",429 PIRINEOS-AV. POPOCATEPETL (EJE 8),"[428, 430, 431]",19.363071,-99.158292
+409,430 - Tripoli-Av. Popocatepetl (Eje 8),Santa Cruz Atoyac,430,"{'lat': 19.362139, 'lon': -99.154974}",430 TRIPOLI-AV. POPOCATEPETL (EJE 8),"[409, 429, 431]",19.362139,-99.154974
+410,401 - San Lorenzo-Avenida Cuauhtemoc,Santa Cruz Atoyac,401,"{'lat': 19.372147, 'lon': -99.16158}",401 SAN LORENZO-AVENIDA CUAUHTEMOC,"[400, 402, 403]",19.372147,-99.16158
+411,403 - Uxmal-Municipio Libre,Santa Cruz Atoyac,403,"{'lat': 19.371371, 'lon': -99.158639}",403 UXMAL-MUNICIPIO LIBRE,"[401, 402, 405]",19.371371,-99.158639
+412,184 - General Gómez Pedraza-Gobernador Tiburcio Montiel,San Miguel Chapultepec ,184,"{'lat': 19.41479, 'lon': -99.18508}",184 GRAL GÓMEZ PEDRAZA-GOBERNADOR TIBURCIO M,"[185, 186, 187]",19.41479,-99.18508
+413,185 - General Antonio Léon-General Pedro Antonio de los Santos,San Miguel Chapultepec ,185,"{'lat': 19.4128, 'lon': -99.1828}",185 GRAL ANTONIO LÉON-GRAL PEDRO A DE LOS S.,"[176, 187, 190]",19.4128,-99.1828
+414,186 - Gregorio V. Gelati-Francisco Molinos del C.,San Miguel Chapultepec ,186,"{'lat': 19.41249, 'lon': -99.18875}",186 GREGORIO V GELATI-FRANCISCO MOLINOS DEL C,"[187, 188, 189]",19.41249,-99.18875
+415,187 - Genral Cano-Gobernador Gregorio V. Gelati,San Miguel Chapultepec ,187,"{'lat': 19.41123, 'lon': -99.18551}",187 GENERAL CANO-GOBERNADOR GREGORIO V GELATI,"[176, 189, 190]",19.41123,-99.18551
+416,188 - Gobernador Melchor Múzquiz-Gobernador Ignacio Esteva,San Miguel Chapultepec ,188,"{'lat': 19.41171, 'lon': -99.19014}",188 GDOR MELCHOR MÚZQUIZ-GDOR IGNACIO ESTEVA ,"[186, 187, 189]",19.41171,-99.19014
+417,189 - Gobernador Rafael Rebollar-Gobernador José Ceballos,San Miguel Chapultepec ,189,"{'lat': 19.41004, 'lon': -99.18798}",189 GDOR RAFAEL REBOLLAR-GDOR JOSÉ CEBALLOS,"[186, 187, 188]",19.41004,-99.18798
+418,190 - Gobernador Ignacio Esteva-Maestro José Vasconcelos,San Miguel Chapultepec ,190,"{'lat': 19.409569, 'lon': -99.183833}",190 GDOR IGNACIO ESTEVA-MTRO JOSÉ VASCONCELOS,"[177, 187]",19.409569,-99.183833
+419,191 - Gobernador Rafael Rebollar-Gobernador Vicente Eguia,San Miguel Chapultepec ,191,"{'lat': 19.4079, 'lon': -99.18795}",191 GDOR RAFAEL REBOLLAR-GDOR VICENTE EGUIA,"[176, 189, 190]",19.4079,-99.18795
+420,364 - Botichelli-Cda. De Giorgone,Santa María Nonoalco,364,"{'lat': 19.383063, 'lon': -99.185858}",364 BOTICHELLI-CDA. DE GIORGONE,"[351, 352]",19.383063,-99.185858
+421,365 - Holbein-Avenida Revolución,Santa María Nonoalco,365,"{'lat': 19.381117, 'lon': -99.186687}",365 HOLBEIN-AVENIDA REVOLUCIÓN,"[352, 363, 364]",19.381117,-99.186687
+422,352 - Tintoreto-Giorgine,Santa María Nonoalco,352,"{'lat': 19.384114, 'lon': -99.185447}",352 TINTORETO-GIORGINE,"[351, 364]",19.384114,-99.185447
+423,351 - Calle 27-Avenida Revolución,San Pedro de los Pinos,351,"{'lat': 19.385751, 'lon': -99.186297}",351 CALLE 27-AVENIDA REVOLUCIÓN,"[332, 352, 364]",19.385751,-99.186297
+424,312 - Avenida 2-Calle 7,San Pedro de los Pinos,312,"{'lat': 19.392634, 'lon': -99.183737}",312 AVENIDA 2-CALLE 7,"[310, 311, 328]",19.392634,-99.183737
+425,328 - Avenida 1-Calle 7,San Pedro de los Pinos,328,"{'lat': 19.392586, 'lon': -99.184742}",328 AVENIDA 1-CALLE 7,"[311, 312, 329]",19.392586,-99.184742
+426,329 - Calle 13-Avenida 1,San Pedro de los Pinos,329,"{'lat': 19.390306, 'lon': -99.184812}",329 CALLE 13-AVENIDA 1,"[312, 328, 330]",19.390306,-99.184812
+427,330 - Calle 15-Avenida Patriotismo,San Pedro de los Pinos,330,"{'lat': 19.389358, 'lon': -99.182606}",330 CALLE 15-AVENIDA PATRIOTISMO,"[329, 331, 332]",19.389358,-99.182606
+428,331 - Avenida 2-Calle 17,San Pedro de los Pinos,331,"{'lat': 19.388547, 'lon': -99.183971}",331 AVENIDA 2-CALLE 17,"[329, 330, 332]",19.388547,-99.183971
+429,332 - Sur De Calle 27-Avenida 3,San Pedro de los Pinos,332,"{'lat': 19.385508, 'lon': -99.183809}",332 SUR DE CALLE 27-AVENIDA 3,"[330, 331, 333]",19.385508,-99.183809
+430,263 - Sadi Carnot - Gómez Farias,San Rafael,263,"{'lat': 19.436274, 'lon': -99.158425}",263 SADI CARNOT-GÓMEZ FARIAS ,"[85, 86, 256]",19.436274,-99.158425
+431,256 - Gómez Farías Sadi Carnot,San Rafael,256,"{'lat': 19.4372, 'lon': -99.15816}",256 GÓMEZ FARÍAS-SADI CARNOT ,"[254, 259]",19.4372,-99.15816
+432,257 - Manuel Maria Contreras-Villalongin,San Rafael,257,"{'lat': 19.4338, 'lon': -99.16622}",257 MANUEL MARIA CONTRERAS-VILLALONGIN ,"[183, 255]",19.4338,-99.16622
+433,254 - Alfonso Herrera-Miguel Shultz,San Rafael,254,"{'lat': 19.43935, 'lon': -99.16007}",254 ALFONSO HERRERA-MIGUEL SHULTZ ,"[160, 174, 256]",19.43935,-99.16007
+434,183 - Gabino Barrera-Guillermo Prieto,San Rafael,183,"{'lat': 19.43767, 'lon': -99.16402}",183 GABINO BARRERA-GUILLERMO PRIETO,"[160, 174, 255]",19.43767,-99.16402
+435,160 - Alfonzo Herrera-Gabino Barrera,San Rafael,160,"{'lat': 19.44025, 'lon': -99.16346}",160 ALFONSO HERRERA-GABINO BARRERA,"[174, 183, 254]",19.44025,-99.16346
+436,103 JOAQUÍN VELÁZQUEZ DE LEÓN-GARCÍA ICAZBALCETA,San Rafael,103,"{'lat': 19.441669, 'lon': -99.165217}",103 JOAQUÍN VELÁZQUEZ DE LEÓN-GARCÍA ICAZBALCETA,[103],19.441669,-99.165217
+437,085 - Rosas Moreno - Sullivan,San Rafael,85,"{'lat': 19.43425, 'lon': -99.162508}",85 ROSAS MORENO-SULLIVAN,"[1, 3, 12]",19.43425,-99.162508
+438,010 - Reforma - Ramírez,Tabacalera,10,"{'lat': 19.433321, 'lon': -99.154752}",10 REFORMA-RAMIREZ,[26],19.433321,-99.154752
+439,008 - Reforma - General Prim,Tabacalera,8,"{'lat': 19.431141, 'lon': -99.158317}",8 REFORMA-GENERAL PRIM,"[3, 20, 86]",19.431141,-99.158317
+440,270 - De la Republica-Ponciano Arriaga,Tabacalera,270,"{'lat': 19.43676, 'lon': -99.15387}",270 DE LA REPUBLICA-PONCIANO ARRIAGA ,[270],19.43676,-99.15387
+441,450 RAMOS ARIZPE-PUENTE DE ALVARADO,Tabacalera,450,"{'lat': 19.43836, 'lon': -99.152226}",450 RAMOS ARIZPE-PUENTE DE ALVARADO,[450],19.43836,-99.152226
+442,392 - Patricio Sanz-Felix Cuevas,Tlacoquemecatl,392,"{'lat': 19.3730067, 'lon': -99.1747749}",392 PATRICIO SANZ-FELIX CUEVAS,"[380, 393, 394]",19.3730067,-99.1747749
+443,393 - Adolfo Prieto-Felix Cuevas,Tlacoquemecatl,393,"{'lat': 19.372796, 'lon': -99.172558}",393 ADOLFO PRIETO-FELIX CUEVAS,"[380, 392, 394]",19.372796,-99.172558
+444,370 - Tlacoquemecatl-Av. Insurgentes,Tlacoquemecatl,370,"{'lat': 19.378818, 'lon': -99.177054}",370 TLACOQUEMECATL-AV. INSURGENTES,"[361, 369, 371]",19.378818,-99.177054
+445,371 - Tlacoquemecatl-Capulin,Tlacoquemecatl,371,"{'lat': 19.378542, 'lon': -99.174328}",371 TLACOQUEMECATL-CAPULIN,"[361, 369, 370]",19.378542,-99.174328
+446,380 - Moras-San Lorenzo,Tlacoquemecatl,380,"{'lat': 19.374876, 'lon': -99.173512}",380 MORAS-SAN LORENZO,"[392, 393, 394]",19.374876,-99.173512
+447,381 - San Lorenzo-Manzanas,Tlacoquemecatl,381,"{'lat': 19.375541, 'lon': -99.177894}",381 SAN LORENZO-MANZANAS,"[382, 387, 389]",19.375541,-99.177894
+448,382 - San Lorenzo-Av. Insurgentes,Tlacoquemecatl,382,"{'lat': 19.375591, 'lon': -99.178084}",382 SAN LORENZO-AV. INSURGENTES,"[381, 387, 389]",19.375591,-99.178084
+449,441 - Puente Xoco-Real De Mayorazgo,Xoco,441,"{'lat': 19.361215, 'lon': -99.167527}",441 PUENTE XOCO-REAL DE MAYORAZGO,"[433, 440, 442]",19.361215,-99.167527
+450,442 - Real De Mayorazgo-Avenida México-Coyoacan,Xoco,442,"{'lat': 19.359905, 'lon': -99.1653}",442 REAL DE MAYORAZGO-AVENIDA MÉXICO-COYOACAN,"[432, 443, 444]",19.359905,-99.1653
+451,426 - Cerrada De Popocatepetl-Av. Popocatepetl (Eje,Xoco,426,"{'lat': 19.365519, 'lon': -99.166017}",426 CERRADA DE POPOCATEPETL-AV. POPOCATEPETL (EJE ,"[411, 412, 425]",19.365519,-99.166017
