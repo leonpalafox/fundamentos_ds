@@ -19,7 +19,7 @@
 
 # Introduccion
 
-En esta clase estudiaremos las diferentes técnicas de Ciencia de Datos y sus apliaciones. Se veran tecnicas básicas y el estado del arte, asi como el uso de la Ciencia de Datos para agregar valor a un negocio.
+En esta clase estudiaremos las diferentes técnicas de Ciencia de Datos y sus aplicaciones. Se verán técnicas básicas y el estado del arte, así como el uso de la Ciencia de Datos para agregar valor a un negocio.
 
 # Objetivo
 
@@ -33,11 +33,10 @@ Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dsclase_2019_2/
-
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: http://www.leonpalafox.com/fundamentos_ds/
 ## Horas de oficina
 
-Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico lpalafox@up.edu.mx.
+Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electrónico lpalafox@up.edu.mx.
 
 # Evaluacion
 
@@ -99,23 +98,17 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20192.pptx)
-- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_2_20192.pptx)
-- [Clase 3 - Proyectos de Datos](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_3_20192.pptx)
-- [Clase 4 - Visualizaciones - Python](https://github.com/leonpalafox/dsclase_2019_2/blob/master/Slides/Clase_4_20192.pptx)
+
 
 
 
 # Ejercicios
 
-- [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
-- [Ejercicio 2 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
-- [Ejercicio 3 de Visualizaciones](https://colab.research.google.com/drive/1FU3yeJlsvwrg5yyt4OQ5br0Aw5cWy4Su)
 
 
 # Tareas
 
-1. Elegir dos de las 4 lecturas y escribir un reporte de máximo 3 cuartillas.
+1. Responder las preguntas del archivo de [Tarea 1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Lecturas/Tarea_1_de_Fundamentos_de_Data_Science.pdf) y mandarlas al correo lpalafox@up.edu.mx
 
 # Lecturas
 
@@ -126,9 +119,6 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Sets de Datos
 
-- [Ventas de autos en Noruega](https://raw.githubusercontent.com/leonpalafox/ticlase/master/Resources/Datasets/newcarsalesnorway/norway_new_car_sales_by_model.csv)
-- [Autos Uber](https://raw.githubusercontent.com/leonpalafox/mlclase/master/Unsupervised/data_clustering/uber-raw-data-jul14.csv)
-- [Estaciones de Ecobicis](https://raw.githubusercontent.com/leonpalafox/dsclase_2019_1/master/ecobicis/data/estaciones.csv)
 
 # Libros de texto
 
