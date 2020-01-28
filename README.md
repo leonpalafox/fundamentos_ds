@@ -109,7 +109,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Tareas
 
 1. Responder las preguntas del archivo de [Tarea 1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Lecturas/Tarea_1_de_Fundamentos_de_Data_Science.pdf) y mandarlas al correo lpalafox@up.edu.mx
-
+2. Leer los artículos [1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf) y [2](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf) y mandarlas al correo lpalafox@up.edu.mx
 # Lecturas
 
 - [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
