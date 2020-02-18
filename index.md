@@ -98,11 +98,14 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 
-
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_1_2020.pptx)
+- [Clase 2 - Proyectos de Datos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_2_2020.pptx)
+- [Clase 3 - Visualizaciones - Python](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_3_2020.pptx)
 
 
 # Ejercicios
 
+- [Ejercicio de Visualizaciones](https://colab.research.google.com/drive/1FU3yeJlsvwrg5yyt4OQ5br0Aw5cWy4Su)
 
 
 # Tareas
@@ -110,10 +113,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 1. Responder las preguntas del archivo de [Tarea 1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Lecturas/Tarea_1_de_Fundamentos_de_Data_Science.pdf) y mandarlas al correo lpalafox@up.edu.mx
 2. Leer los artículos [1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf) y [2](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf) y mandar un reporte de lectura al correo lpalafox@up.edu.mx
 
+
 # Lecturas
 
-- [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
-- [Snow and Cholera](https://www.inferentialthinking.com/chapters/02/causality-and-experiments)
 - [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 - [Caso Banorte de Data Analytics](https://hbr.org/2018/01/how-one-company-made-its-analytics-investment-pay-off)
 
