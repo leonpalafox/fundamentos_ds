@@ -121,6 +121,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Sets de Datos
 
+- [Autos Uber](https://raw.githubusercontent.com/leonpalafox/mlclase/master/Unsupervised/data_clustering/uber-raw-data-jul14.csv)
+- [Coronavirus](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv)
 
 # Libros de texto
 
