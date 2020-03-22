@@ -1,17 +1,17 @@
 
-
 - [Introducción](#introduccion)
 - [Objetivo](#objetivo)
 - [Estructura del Curso:](#estrctura-del-curso)
-	- [Horas de Clase](#horas-de-clase)
-	- [Sitio web de la clase](#sitio-web)
-	- [Horas de Oficina](#horas-de-oficina)
+    - [Horas de Clase](#horas-de-clase)
+    - [Sitio web de la clase](#sitio-web)
+    - [Horas de Oficina](#horas-de-oficina)
 - [Evaluación](#evaluacion)
 - [Absentismo](#absentismo)
 - [Temario](#temario)
 - [Slides](#slides)
 - [Ejercicios](#ejercicios)
 - [Tareas](#tareas)
+- [Tareas Resueltas](#tareas-resueltas)
 - [Libros de Texto](#libros-de-texto)
 - [Material Especial requerido para la clase](#material-especial-para-clase)
 - [Políticas](#politicas)
@@ -44,13 +44,13 @@ La evaluación consistirá en:
 
 - El proyecto final será el 60% de la evaluación final.
     - El proyecto final consistira en el uso de un set de datos de su preferencia para diseñar un caso de negocio.
-	- Pueden hacer equipos de hasta tres personas.
-	- Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
+    - Pueden hacer equipos de hasta tres personas.
+    - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
     - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
-	- Dos examenes. 
-	- Dos tareas.
+    - Dos examenes. 
+    - Dos tareas.
   - Participación en clase
 
 
@@ -114,6 +114,12 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 1. Responder las preguntas del archivo de [Tarea 1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Lecturas/Tarea_1_de_Fundamentos_de_Data_Science.pdf) y mandarlas al correo lpalafox@up.edu.mx
 2. Leer los artículos [1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf) y [2](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf) y mandar un reporte de lectura al correo lpalafox@up.edu.mx
 
+# Tareas Resueltas
+
+1. [Mapa Coronavirus Equipo 1](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_1)
+2. [Mapa Coronavirus Equipo 2](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_2)
+3. [Mapa Coronavirus Equipo 3](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_3)
+
 # Lecturas
 
 - [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
@@ -135,6 +141,10 @@ Se require una computadora con Python instalado.
 # Politicas
 
 Se pueden utilizar teléfonos y bipers, siempre y cuando no molestén al resto del salón.
+
+
+
+
 
 
 

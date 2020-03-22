@@ -11,6 +11,7 @@
 - [Slides](#slides)
 - [Ejercicios](#ejercicios)
 - [Tareas](#tareas)
+- [Tareas Resueltas](#tareas-resueltas)
 - [Libros de Texto](#libros-de-texto)
 - [Material Especial requerido para la clase](#material-especial-para-clase)
 - [Políticas](#politicas)
@@ -113,6 +114,11 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 1. Responder las preguntas del archivo de [Tarea 1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Lecturas/Tarea_1_de_Fundamentos_de_Data_Science.pdf) y mandarlas al correo lpalafox@up.edu.mx
 2. Leer los artículos [1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf) y [2](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf) y mandar un reporte de lectura al correo lpalafox@up.edu.mx
 
+# Tareas Resueltas
+
+1. [Mapa Coronavirus Equipo 1](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_1)
+2. [Mapa Coronavirus Equipo 2](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_2)
+3. [Mapa Coronavirus Equipo 3](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_3)
 
 # Lecturas
 
