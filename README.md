@@ -102,7 +102,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_1_2020.pptx)
 - [Clase 2 - Proyectos de Datos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_2_2020.pptx)
 - [Clase 3 - Visualizaciones - Python](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_3_2020.pptx)
-
+- [Clase 5 -  Modelos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_5_2020.pptx)
+- [Clase 6 -  Machine Learning](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_6_2020.pptx)
 
 # Ejercicios
 
