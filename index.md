@@ -107,6 +107,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Ejercicios
 
 - [Ejercicio de Visualizaciones](https://colab.research.google.com/drive/1FU3yeJlsvwrg5yyt4OQ5br0Aw5cWy4Su)
+- [Ejercicio Ecobicis](https://colab.research.google.com/drive/1jYEq21V8FzNQnN1P2l6nW77g4-d7Ppvj)
 
 
 # Tareas
@@ -130,6 +131,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Autos Uber](https://raw.githubusercontent.com/leonpalafox/mlclase/master/Unsupervised/data_clustering/uber-raw-data-jul14.csv)
 - [Coronavirus](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv)
 - [Estaciones de Ecobicis](https://raw.githubusercontent.com/leonpalafox/dsclase_2019_1/master/ecobicis/data/estaciones.csv)
+- [Datos Abiertos Ecobici](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data)
 
 
 # Libros de texto
