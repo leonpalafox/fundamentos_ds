@@ -36,7 +36,7 @@ Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
 Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: http://www.leonpalafox.com/fundamentos_ds/
 ## Horas de oficina
 
-Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electrónico lpalafox@up.edu.mx.
+Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electrónico lfpalafox@up.edu.mx.
 
 # Evaluacion
 
@@ -49,9 +49,9 @@ La evaluación consistirá en:
     - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
-	- Dos examenes. 
-	- Dos tareas.
-  - Participación en clase
+	- 1 Examen Final. 
+	- Tareas.
+    - Participación en clase
 
 
 # Absentismo
@@ -100,11 +100,11 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_1_2020.pptx)
-- [Clase 2 - Proyectos de Datos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_2_2020.pptx)
+<!--- [Clase 2 - Proyectos de Datos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_2_2020.pptx)
 - [Clase 3 - Visualizaciones - Python](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_3_2020.pptx)
 - [Clase 5 -  Modelos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_5_2020.pptx)
 - [Clase 6 -  Machine Learning](https://github.com/leonpalafox/fundamentos_ds/blob/master/Slides/Clase_6_2020.pptx)
-
+--->
 
 # Ejercicios
 
@@ -114,17 +114,15 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
-1. Responder las preguntas del archivo de [Tarea 1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Lecturas/Tarea_1_de_Fundamentos_de_Data_Science.pdf) y mandarlas al correo lpalafox@up.edu.mx
-2. Leer los artículos [1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf) y [2](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf) y mandar un reporte de lectura al correo lpalafox@up.edu.mx
+1. Leer los artículos [1](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf) y [2](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf) y mandar un reporte de lectura al correo lfpalafox@up.edu.mx
 
 # Tareas Resueltas
 
-1. [Mapa Coronavirus Equipo 1](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_1)
-2. [Mapa Coronavirus Equipo 2](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_2)
-3. [Mapa Coronavirus Equipo 3](https://github.com/leonpalafox/fundamentos_ds/tree/master/codigo_tareas/mapa_coronavirus/viz_team_3)
 
 # Lecturas
 
+- [Efectos de Inversión en Big Data](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/BigDataInvestement.pdf)
+- [Effectos de Inversion en Ciencia de Datos](https://github.com/leonpalafox/fundamentos_ds/blob/master/Resources/articles/DataScienceEffects.pdf)
 - [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 - [Caso Banorte de Data Analytics](https://hbr.org/2018/01/how-one-company-made-its-analytics-investment-pay-off)
 
